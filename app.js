@@ -7,6 +7,8 @@ const PORT = process.env.PORT || 4000;
 const data = require('./bhagavad_gita.json'); // Load the JSON data
 const versesData = require('./verses.json'); 
 const booksData = require('./books.json'); // Load the JSON data for books
+const path = require('path');
+const filePath = path.join(__dirname, 'verseDetails.json');
 
 app.use(express.json());
 
@@ -42,7 +44,7 @@ app.get('/api/verse/:chapterVerse', (req, res) => {
   const { chapterVerse } = req.params;
 
   // Read the JSON file and parse its contents
-  fs.readFile('./verseDetails.json', (err, data) => {
+  fs.readFile(filePath, (err, data) => {
     if (err) {
       console.error('Error reading verse details JSON file:', err);
       res.status(500).json({ error: 'Internal server error' });
