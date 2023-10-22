@@ -7,8 +7,6 @@ const PORT = process.env.PORT || 4000;
 const data = require('./bhagavad_gita.json'); // Load the JSON data
 const versesData = require('./verses.json'); 
 const booksData = require('./books.json'); // Load the JSON data for books
-const verseDetails = require('./verseDetails.json');
-const audioData = require('./audio.json');
 
 app.use(express.json());
 
@@ -44,14 +42,14 @@ app.get('/api/verse/:chapterVerse', (req, res) => {
   const { chapterVerse } = req.params;
 
   // Read the JSON file and parse its contents
-  fs.readFile('./verseDetails.json', 'utf8', (err, data) => {
+  fs.readFile('./verseDetails.json', (err, data) => {
     if (err) {
       console.error('Error reading verse details JSON file:', err);
       res.status(500).json({ error: 'Internal server error' });
       return;
     }
 
-     verseDetails = JSON.parse(data);
+    const verseDetails = JSON.parse(data);
 
     // Check if verse details for the specified chapter-verse identifier exist
     if (verseDetails[chapterVerse]) {
@@ -74,7 +72,7 @@ app.get('/api/audio/:chapterVerse', (req, res) => {
       return;
     }
 
-     audioData = JSON.parse(data);
+    const audioData = JSON.parse(data);
 
     // Check if audio data for the specified chapter-verse identifier exists
     if (audioData[chapterVerse]) {
