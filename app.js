@@ -9,6 +9,7 @@ const versesData = require('./verses.json');
 const booksData = require('./books.json'); // Load the JSON data for books
 const path = require('path');
 const filePath = path.join(__dirname, 'verseDetails.json');
+const audioPath = path.join(__dirname, 'audio.json');
 
 app.use(express.json());
 
@@ -67,7 +68,7 @@ app.get('/api/audio/:chapterVerse', (req, res) => {
   const { chapterVerse } = req.params;
 
   // Read the audio JSON file and parse its contents
-  fs.readFile('./audio.json', 'utf8', (err, data) => {
+  fs.readFile(audioPath, 'utf8', (err, data) => {
     if (err) {
       console.error('Error reading audio JSON file:', err);
       res.status(500).json({ error: 'Internal server error' });
