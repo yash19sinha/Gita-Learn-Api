@@ -7,6 +7,8 @@ const PORT = process.env.PORT || 4000;
 const data = require('./bhagavad_gita.json'); // Load the JSON data
 const versesData = require('./verses.json'); 
 const booksData = require('./books.json'); // Load the JSON data for books
+const verseDetails = require('./verseDetails.json')
+const audioData = require('./audio.json')
 
 app.use(express.json());
 
@@ -49,7 +51,7 @@ app.get('/api/verse/:chapterVerse', (req, res) => {
       return;
     }
 
-    const verseDetails = JSON.parse(data);
+     verseDetails = JSON.parse(data);
 
     // Check if verse details for the specified chapter-verse identifier exist
     if (verseDetails[chapterVerse]) {
@@ -72,7 +74,7 @@ app.get('/api/audio/:chapterVerse', (req, res) => {
       return;
     }
 
-    const audioData = JSON.parse(data);
+     audioData = JSON.parse(data);
 
     // Check if audio data for the specified chapter-verse identifier exists
     if (audioData[chapterVerse]) {
