@@ -1,12 +1,12 @@
 {
     "version": 2,
     "name": "Gita-Learn-Api",
-    
+
     "builds": [
       { "src": "app.js", "use": "@vercel/node" }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "/" }
+      { "src": "/(.*)", "dest": "app.js" }
     ]
   }
   
