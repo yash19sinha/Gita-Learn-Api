@@ -7,8 +7,8 @@ const PORT = process.env.PORT || 4000;
 const data = require('./bhagavad_gita.json'); // Load the JSON data
 const versesData = require('./verses.json'); 
 const booksData = require('./books.json'); // Load the JSON data for books
-const verseDetails = require('./verseDetails.json')
-const audioData = require('./audio.json')
+const verseDetails = require('./verseDetails.json');
+const audioData = require('./audio.json');
 
 app.use(express.json());
 
