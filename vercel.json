@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "name-of-your-vercel-app",
+    "name": "Gita-Learn-Api",
     "builds": [
       { "src": "app.js", "use": "@vercel/node" }
     ],
