@@ -11,6 +11,9 @@ const path = require('path');
 const filePath = path.join(__dirname, 'verseDetails.json');
 const audioPath = path.join(__dirname, 'audio.json');
 
+const rawData = fs.readFileSync('bhagavad_gita.json', 'utf-8');
+const chaptersData = JSON.parse(rawData);
+
 app.use(express.json());
 
 // Use cors middleware to allow requests from the origin where your Next.js app is hosted
@@ -107,9 +110,24 @@ app.get('/api/verse-of-the-day', (req, res) => {
 });
 
 
+app.get('/api/chapters/:bookId', (req, res) => {
+  const { bookId } = req.params;
+
+  // Filter chapters based on the selected book's ID
+  const bookChapters = chaptersData.chapters.filter((chapter) => chapter.bookId === Number(bookId));
+
+  if (bookChapters.length === 0) {
+    res.status(404).json({ error: 'Chapters not found for the specified book' });
+  } else {
+    res.json({ chapters: bookChapters });
+  }
+});
+
 app.get('/api/books', (req, res) => {
   res.json({ books: booksData });
 });
+
+
 // Start the server
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
