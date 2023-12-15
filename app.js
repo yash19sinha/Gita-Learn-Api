@@ -10,9 +10,13 @@ const booksData = require('./books.json'); // Load the JSON data for books
 const path = require('path');
 const filePath = path.join(__dirname, 'verseDetails.json');
 const audioPath = path.join(__dirname, 'audio.json');
+const questionsPath = path.join(__dirname, 'questions.json');
 
 const rawData = fs.readFileSync('bhagavad_gita.json', 'utf-8');
 const chaptersData = JSON.parse(rawData);
+
+const questionsRawData = fs.readFileSync(questionsPath, 'utf-8');
+const questionsData = JSON.parse(questionsRawData);
 
 app.use(express.json());
 
@@ -127,6 +131,19 @@ app.get('/api/books', (req, res) => {
   res.json({ books: booksData });
 });
 
+
+
+
+app.get('/api/questions/:verseId', (req, res) => {
+  const verseId = req.params.verseId;
+
+  // Check if the requested verseId exists in the questions data
+  if (questionsData.hasOwnProperty(verseId)) {
+    res.json({ questions: questionsData[verseId] });
+  } else {
+    res.status(404).json({ error: 'Verse not found' });
+  }
+});
 
 // Start the server
 app.listen(PORT, () => {

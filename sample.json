@@ -1,0 +1,96 @@
+{
+    "1.1": {
+
+        "mcq": [
+            {
+                "id": 1,
+                "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
+                "options": [
+                    "What did they do in Kurukshetra?",
+                    "How many soldiers were there?",
+                    "Who will win the war?"
+                ],
+                "correctOption": 0
+            },
+            {
+                "id": 2,
+                "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
+                "options": [
+                    "What did they do in Kurukshetra?",
+                    "How many soldiers were there?",
+                    "Who will win the war?"
+                ],
+                "correctOption": 0
+            }
+        ],
+        "fill_ups": [
+            {
+                "id":1,
+                "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
+                "answer":"gita"
+            }
+        ],
+        "mtf": [
+            {
+                "id": 1,
+                "question": "Match the character with their role.",
+                "options": [
+                  { "character": "Arjuna", "role": "Warrior" },
+                  { "character": "Bhishma", "role": "Grandfather and General" },
+                  { "character": "Krishna", "role": "Charioteer" },
+                  { "character": "Duryodhana", "role": "Kaurava Prince" }
+                ],
+                "correctOrder": [2, 0, 3, 1]
+              }
+        ]
+        
+        
+    },
+    "1.2": {
+
+        "mcq": [
+            {
+                "id": 1,
+                "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
+                "options": [
+                    "What did they do in Kurukshetra?",
+                    "How many soldiers were there?",
+                    "Who will win the war?"
+                ],
+                "correctOption": 0
+            },
+            {
+                "id": 2,
+                "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
+                "options": [
+                    "What did they do in Kurukshetra?",
+                    "How many soldiers were there?",
+                    "Who will win the war?"
+                ],
+                "correctOption": 0
+            }
+        ],
+        "fill_ups": [
+            {
+                "id":1,
+                "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
+                "answer":"gita"
+            }
+        ],
+        "mtf": [
+            {
+                "id": 1,
+                "question": "Match the character with their role.",
+                "options": [
+                  { "character": "Arjuna", "role": "Warrior" },
+                  { "character": "Bhishma", "role": "Grandfather and General" },
+                  { "character": "Krishna", "role": "Charioteer" },
+                  { "character": "Duryodhana", "role": "Kaurava Prince" }
+                ],
+                "correctOrder": [2, 0, 3, 1]
+              }
+        ]
+        
+        
+    }
+}
