@@ -5,50 +5,63 @@
           {
               "id": 1,
               "type":"mcq",
-              "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
+              "question": "Name the place of pilgrimage where this battle took place.",
               "options": [
-                  "What did they do in Kurukshetra?",
-                  "How many soldiers were there?",
-                  "Who will win the war?",
-                  "Who will win the war?"
+                  "Kurukshetra",
+                  "Mathura",
+                  "Rishikesh",
+                  "Varanasi"
               ],
               "correctOption": 0
           },
           {
               "id": 2,
               "type":"mcq",
-              "question": "What is Gita",
+              "question": "What is the recommended approach for reading Bhagavad-gita, according to the Gita-Mahatmya?",
               "options": [
-                  "ABC",
-                  "BAC",
-                  "CAB"
+                  "Skim through the verses quickly to get a general understanding.",
+                  "Read it independently and form personal interpretations.",
+                  "Read it carefully with the assistance of a devotee of Śrī Kṛṣṇa, avoiding personally motivated interpretations.",
+                  "Listen to audio versions without reading the text."
               ],
-              "correctOption": 0
+              "correctOption": 2
           },
           {
             "id": 3,
             "type":"mcq",
-            "question": "What is Gita",
+            "question": "What establishes the Bhagavad Gita as the perfect theistic science?",
             "options": [
-                "XYZ",
-                "YXZ",
-                "ZXY"
+                "It is a compilation of profound philosophical insights presented over centuries by various scholars.",
+                "The Bhagavad Gita is authored by Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, making it a direct discourse from the Divine.",
+                "It is widely endorsed by contemporary spiritual leaders for its relevance and wisdom.",
+                "The Bhagavad Gita provides an extensive guide to theistic principles and practices, offering a comprehensive understanding of divine science."
             ],
-            "correctOption": 0
+            "correctOption": 1
         },
         {
           "id": 4,
           "type":"mcq",
-          "question": "What is Gita",
+          "question": "Why did Dhṛtarāṣṭra express fear regarding the holy place's influence on the battle in the Mahabharata?",
           "options": [
-              "PQR",
-              "QPR",
-              "RQP"
+              "He believed the holy place would favorably impact the Pāṇḍavas.",
+              "He thought the holy place would be neutral in its influence.",
+              "He was confident that the holy place would support his sons.",
+              "He was indifferent to the influence of the holy place."
+          ],
+          "correctOption": 0
+         },
+         {
+          "id": 5,
+          "type": "mcq",
+          "question": "How was Saïjaya able to envision the Battlefield of Kurukṣetra?",
+          "options": [
+              "Through his own mystical powers",
+              "By practicing deep meditation",
+              "By the mercy of Vyāsa, his teacher",
+              "Through a divine revelation"
           ],
           "correctOption": 2
-      
-      
-    }
+      }
       ],
       "fill_ups": [
           {
