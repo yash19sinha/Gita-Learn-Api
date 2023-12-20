@@ -23,6 +23,7 @@
                   "Read it independently and form personal interpretations.",
                   "Read it carefully with the assistance of a devotee of Śrī Kṛṣṇa, avoiding personally motivated interpretations.",
                   "Listen to audio versions without reading the text."
+                  
               ],
               "correctOption": 2
           },
@@ -63,14 +64,7 @@
           "correctOption": 2
       }
       ],
-      "fill_ups": [
-          {
-              "id":1,
-              "type":"fill_ups",
-              "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
-              "answer":"gita"
-          }
-      ],
+      
       "mtf": [
           {
               "id": 1,
@@ -110,13 +104,6 @@
                   "Who will win the war?"
               ],
               "correctOption": 0
-          }
-      ],
-      "fill_ups": [
-          {
-              "id":1,
-              "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
-              "answer":"gita"
           }
       ],
       "mtf": [
