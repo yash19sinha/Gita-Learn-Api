@@ -62,7 +62,19 @@
               "Through a divine revelation"
           ],
           "correctOption": 2
-      }
+      },
+      {
+        "id": 6,
+        "type": "mcq",
+        "question": "What is the significance of the paddy field analogy in the context of the religious field of Kurukṣetra?",
+        "options": [
+        "To emphasize the abundance of crops in Kurukṣetra",
+        "To highlight the need for agricultural development",
+        "To symbolize the removal of unwanted elements in the religious field",
+        "To promote the cultivation of paddy in Kurukṣetra"
+        ],
+        "correctOption": 2
+        }
       ],
       
       "mtf": [
@@ -85,16 +97,19 @@
   "1.2": {
 
       "mcq": [
-          {
-              "id": 1,
-              "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
-              "options": [
-                  "What did they do in Kurukshetra?",
-                  "How many soldiers were there?",
-                  "Who will win the war?"
-              ],
-              "correctOption": 0
-          },
+          
+        {
+            "id": 1,
+            "type": "mcq",
+            "question": "What is the composition of an 'akñauhiṇī' as described in Bhagavad-gītā 1.2?",
+            "options": [
+            "21,870 chariots, 21,870 elephants, 65,610 cavalry, and 109,350 infantry",
+            "10,000 chariots, 30,000 elephants, 50,000 cavalry, and 100,000 infantry",
+            "25,000 chariots, 20,000 elephants, 70,000 cavalry, and 120,000 infantry",
+            "30,000 chariots, 25,000 elephants, 80,000 cavalry, and 150,000 infantry"
+            ],
+            "correctOption": 1
+            },
           {
               "id": 2,
               "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
@@ -121,5 +136,91 @@
       ]
       
       
-  }
+  },
+  "1.4": {
+
+    "mcq": [
+        
+        {
+            "id": 1,
+            "type": "mcq",
+            "question": "Who among the following warriors is fighting on the side of the Pandavas?",
+            "options": [
+              "Jayadratha",
+              "Yuyudhäna",
+              "Käçiräja",
+              "Droëäcärya"
+            ],
+            "correctOption": 2
+          }
+          ,
+          {
+            "id": 2,
+            "type": "mcq",
+            "question": "Identify the warrior aligned with the Kauravas.",
+            "options": [
+              "Bhuriçravä",
+              "Drupada",
+              "Karëa",
+              "Çaibya"
+            ],
+            "correctOption": 1
+          },
+          {
+            "id": 3,
+            "type": "mcq",
+            "question": "Who is not fighting for either the Pandavas or Kauravas?",
+            "options": [
+              "Kuntibhoja",
+              "Sons of Draupadé",
+              "Vikarëa",
+              "Dhåñöaketu"
+            ],
+            "correctOption": 1
+          },
+          {
+            "id": 4,
+            "type": "mcq",
+            "question": "Which warrior is on the side of the Kauravas?",
+            "options": [
+              "Cekitäna",
+              "Açvatthämä",
+              "Uttamaujä",
+              "Yudhämanyu"
+            ],
+            "correctOption": 2
+          },
+          {
+            "id": 5,
+            "type": "mcq",
+            "question": "Who is fighting on the side of the Pandavas among the listed warriors?",
+            "options": [
+              "Kåpa",
+              "Bhéñma",
+              "Purujit",
+              "Çalya"
+            ],
+            "correctOption": 3
+          }
+          
+          
+          
+          
+    ],
+    "mtf": [
+        {
+            "id": 1,
+            "question": "Match the character with their role.",
+            "options": [
+              { "character": "Arjuna", "role": "Warrior" },
+              { "character": "Bhishma", "role": "Grandfather and General" },
+              { "character": "Krishna", "role": "Charioteer" },
+              { "character": "Duryodhana", "role": "Kaurava Prince" }
+            ],
+            "correctOrder": [2, 0, 3, 1]
+          }
+    ]
+    
+    
+}
 }
