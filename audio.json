@@ -699,13 +699,13 @@
     "6.10": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-10.MP3"
     },
-    "6.11": {
+    "6.11-12": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-11.MP3"
     },
     "6.12": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-12.MP3"
     },
-    "6.13": {
+    "6.13-14": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-13.MP3"
     },
     "6.14": {
@@ -1777,7 +1777,7 @@
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-12.MP3"
       }
       ,
-      "16.13-14": {
+      "16.13-15": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-13.MP3"
       }
       ,
