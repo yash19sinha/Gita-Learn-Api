@@ -11,6 +11,8 @@ const path = require('path');
 const filePath = path.join(__dirname, 'verseDetails.json');
 const audioPath = path.join(__dirname, 'audio.json');
 const questionsPath = path.join(__dirname, 'questions.json');
+// const verses = require('./verses.json');
+
 
 const rawData = fs.readFileSync('bhagavad_gita.json', 'utf-8');
 const chaptersData = JSON.parse(rawData);
@@ -92,6 +94,11 @@ app.get('/api/audio/:chapterVerse', (req, res) => {
     }
   });
 });
+
+
+// app.get('/api/verses', (req, res) => {
+//   res.json({ verses });
+// });
 
 // Define and initialize currentVerseIndex here
 let currentVerseIndex = 0;

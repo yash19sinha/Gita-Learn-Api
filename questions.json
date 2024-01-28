@@ -1,226 +1,85 @@
 {
   "1.1": {
-
-      "mcq": [
-          {
-              "id": 1,
-              "type":"mcq",
-              "question": "Name the place of pilgrimage where this battle took place.",
-              "options": [
-                  "Kurukshetra",
-                  "Mathura",
-                  "Rishikesh",
-                  "Varanasi"
-              ],
-              "correctOption": 0
-          },
-          {
-              "id": 2,
-              "type":"mcq",
-              "question": "What is the recommended approach for reading Bhagavad-gita, according to the Gita-Mahatmya?",
-              "options": [
-                  "Skim through the verses quickly to get a general understanding.",
-                  "Read it independently and form personal interpretations.",
-                  "Read it carefully with the assistance of a devotee of Śrī Kṛṣṇa, avoiding personally motivated interpretations.",
-                  "Listen to audio versions without reading the text."
-                  
-              ],
-              "correctOption": 2
-          },
-          {
-            "id": 3,
-            "type":"mcq",
-            "question": "What establishes the Bhagavad Gita as the perfect theistic science?",
-            "options": [
-                "It is a compilation of profound philosophical insights presented over centuries by various scholars.",
-                "The Bhagavad Gita is authored by Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, making it a direct discourse from the Divine.",
-                "It is widely endorsed by contemporary spiritual leaders for its relevance and wisdom.",
-                "The Bhagavad Gita provides an extensive guide to theistic principles and practices, offering a comprehensive understanding of divine science."
-            ],
-            "correctOption": 1
-        },
-        {
-          "id": 4,
-          "type":"mcq",
-          "question": "Why did Dhṛtarāṣṭra express fear regarding the holy place's influence on the battle in the Mahabharata?",
-          "options": [
-              "He believed the holy place would favorably impact the Pāṇḍavas.",
-              "He thought the holy place would be neutral in its influence.",
-              "He was confident that the holy place would support his sons.",
-              "He was indifferent to the influence of the holy place."
-          ],
-          "correctOption": 0
-         },
-         {
-          "id": 5,
-          "type": "mcq",
-          "question": "How was Saïjaya able to envision the Battlefield of Kurukṣetra?",
-          "options": [
-              "Through his own mystical powers",
-              "By practicing deep meditation",
-              "By the mercy of Vyāsa, his teacher",
-              "Through a divine revelation"
-          ],
-          "correctOption": 2
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "Name the place of pilgrimage where this battle took place.",
+        "correctAnswer": "Kurukshetra"
       },
       {
-        "id": 6,
+        "id": 2,
+        "type": "fillUps",
+        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is _______________ by the Supreme Personality of Godhead, Lord Çré Kåñëa.",
+        "correctAnswer": "directly spoken"
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "Saïjaya’s vision: Saïjaya was a student of ______, and therefore, by the mercy of ______, Saïjaya was able to envision the Battlefield of Kurukñetra even while he was in the room of Dhåtaräñöra.",
+        "correctAnswer": "Vyasa"
+      }
+     
+    ],
+    "mcq": [
+      {
+        "id": 1,
         "type": "mcq",
-        "question": "What is the significance of the paddy field analogy in the context of the religious field of Kurukṣetra?",
-        "options": [
-        "To emphasize the abundance of crops in Kurukṣetra",
-        "To highlight the need for agricultural development",
-        "To symbolize the removal of unwanted elements in the religious field",
-        "To promote the cultivation of paddy in Kurukṣetra"
-        ],
-        "correctOption": 2
-        }
-      ],
-      
-      "mtf": [
-          {
-              "id": 1,
-              "type":"mtf",
-              "question": "Match the character with their role.",
-              "options": [
-                { "character": "Arjuna", "role": "Warrior" },
-                { "character": "Bhishma", "role": "Grandfather and General" },
-                { "character": "Krishna", "role": "Charioteer" },
-                { "character": "Duryodhana", "role": "Kaurava Prince" }
-              ],
-              "correctOrder": [2, 0, 3, 1]
-            }
-      ]
-      
-      
+        "question": "Gita-Mahatmya: One should read Bhagavad-gétä very ___________ with the help of a person who is a devotee of Çré Kåñëa and try to understand it without personally motivated interpretations.",
+        "options": ["Devotionally", "Analytically", "Meditatively", "Scrutinizingly"],
+        "correctOption": 3
+      }
+    ]
   },
   "1.2": {
-
-      "mcq": [
-          
-        {
-            "id": 1,
-            "type": "mcq",
-            "question": "What is the composition of an 'akñauhiṇī' as described in Bhagavad-gītā 1.2?",
-            "options": [
-            "21,870 chariots, 21,870 elephants, 65,610 cavalry, and 109,350 infantry",
-            "10,000 chariots, 30,000 elephants, 50,000 cavalry, and 100,000 infantry",
-            "25,000 chariots, 20,000 elephants, 70,000 cavalry, and 120,000 infantry",
-            "30,000 chariots, 25,000 elephants, 80,000 cavalry, and 150,000 infantry"
-            ],
-            "correctOption": 1
-            },
-          {
-              "id": 2,
-              "question": "What did Dh\u1e5btar\u0101\u1e63\u1e6dra inquire from Sa\u00f1jaya?",
-              "options": [
-                  "What did they do in Kurukshetra?",
-                  "How many soldiers were there?",
-                  "Who will win the war?"
-              ],
-              "correctOption": 0
-          }
-      ],
-      "mtf": [
-          {
-              "id": 1,
-              "question": "Match the character with their role.",
-              "options": [
-                { "character": "Arjuna", "role": "Warrior" },
-                { "character": "Bhishma", "role": "Grandfather and General" },
-                { "character": "Krishna", "role": "Charioteer" },
-                { "character": "Duryodhana", "role": "Kaurava Prince" }
-              ],
-              "correctOrder": [2, 0, 3, 1]
-            }
-      ]
-      
-      
+    "mcq": [
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "Name the place of pilgrimage where this battle took place.",
+        "options": ["Kurukshetra", "Mathura", "Rishikesh", "Varanasi"],
+        "correctOption": 0
+      }
+    ],
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "What is the composition of an 'akñauhiṇī' as described in Bhagavad-gītā 1.2?",
+        "correctAnswer": "10,000 chariots, 30,000 elephants, 50,000 cavalry, and 100,000 infantry."
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "What did Dhṛtarāṣṭra inquire from Sañjaya?",
+        "correctAnswer": "What did they do in Kurukshetra?"
+      }
+     
+    ]
   },
   "1.4": {
-
     "mcq": [
-        
-        {
-            "id": 1,
-            "type": "mcq",
-            "question": "Who among the following warriors is fighting on the side of the Pandavas?",
-            "options": [
-              "Jayadratha",
-              "Yuyudhäna",
-              "Käçiräja",
-              "Droëäcärya"
-            ],
-            "correctOption": 2
-          }
-          ,
-          {
-            "id": 2,
-            "type": "mcq",
-            "question": "Identify the warrior aligned with the Kauravas.",
-            "options": [
-              "Bhuriçravä",
-              "Drupada",
-              "Karëa",
-              "Çaibya"
-            ],
-            "correctOption": 1
-          },
-          {
-            "id": 3,
-            "type": "mcq",
-            "question": "Who is not fighting for either the Pandavas or Kauravas?",
-            "options": [
-              "Kuntibhoja",
-              "Sons of Draupadé",
-              "Vikarëa",
-              "Dhåñöaketu"
-            ],
-            "correctOption": 1
-          },
-          {
-            "id": 4,
-            "type": "mcq",
-            "question": "Which warrior is on the side of the Kauravas?",
-            "options": [
-              "Cekitäna",
-              "Açvatthämä",
-              "Uttamaujä",
-              "Yudhämanyu"
-            ],
-            "correctOption": 2
-          },
-          {
-            "id": 5,
-            "type": "mcq",
-            "question": "Who is fighting on the side of the Pandavas among the listed warriors?",
-            "options": [
-              "Kåpa",
-              "Bhéñma",
-              "Purujit",
-              "Çalya"
-            ],
-            "correctOption": 3
-          }
-          
-          
-          
-          
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "Name the place of pilgrimage where this battle took place.",
+        "options": ["Kurukshetra", "Mathura", "Rishikesh", "Varanasi"],
+        "correctOption": 0
+      }
     ],
-    "mtf": [
-        {
-            "id": 1,
-            "question": "Match the character with their role.",
-            "options": [
-              { "character": "Arjuna", "role": "Warrior" },
-              { "character": "Bhishma", "role": "Grandfather and General" },
-              { "character": "Krishna", "role": "Charioteer" },
-              { "character": "Duryodhana", "role": "Kaurava Prince" }
-            ],
-            "correctOrder": [2, 0, 3, 1]
-          }
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "Who among the following warriors is fighting on the side of the Pandavas?",
+        "correctAnswer": "Käçiräja"
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "Identify the warrior aligned with the Kauravas.",
+        "correctAnswer": "Drupada"
+      }
     ]
-    
-    
-}
+  }
 }
