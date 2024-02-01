@@ -5,80 +5,116 @@
         "id": 1,
         "type": "fillUps",
         "question": "Name the place of pilgrimage where this battle took place.",
-        "correctAnswer": "Kurukshetra"
+        "correctAnswers": ["kurukshetra"]
       },
       {
         "id": 2,
         "type": "fillUps",
-        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is _______________ by the Supreme Personality of Godhead, Lord Çré Kåñëa.",
-        "correctAnswer": "directly spoken"
+        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is directly spoken by the Supreme Personality of Godhead, Lord Çré Kåñëa.",
+        "correctAnswers": ["directly spoken"]
       },
       {
         "id": 3,
         "type": "fillUps",
-        "question": "Saïjaya’s vision: Saïjaya was a student of ______, and therefore, by the mercy of ______, Saïjaya was able to envision the Battlefield of Kurukñetra even while he was in the room of Dhåtaräñöra.",
-        "correctAnswer": "Vyasa"
-      }
-     
-    ],
-    "mcq": [
+        "question": "Gita-Mahatmya: One should read Bhagavad-gétä very scrutinizingly with the help of a person who is a devotee of Çré Kåñëa and try to understand it without __________________ interpretations.",
+        "correctAnswers": ["scrutinizingly","devotee of Çré Kåñëa ","personally motivated"]
+      },
       {
-        "id": 1,
-        "type": "mcq",
-        "question": "Gita-Mahatmya: One should read Bhagavad-gétä very ___________ with the help of a person who is a devotee of Çré Kåñëa and try to understand it without personally motivated interpretations.",
-        "options": ["Devotionally", "Analytically", "Meditatively", "Scrutinizingly"],
-        "correctOption": 3
+        "id": 4,
+        "type": "fillUps",
+        "question": "Dhåtaräñöra’s fear: Dhåtaräñöra became very fearful about the __________ of the holy place on the outcome of the ________, because he knew very well that the holy place would influence the __________ favourably.Dhåtaräñöra did not want a _________ between his sons and the Pandavas.",
+        "correctAnswers": ["influence", "battle", "pandavas","compromise"]
+      },
+      {
+        "id": 5,
+        "type": "fillUps",
+        "question": "Saïjaya’s vision: Saïjaya was a student of ______, and therefore, by the mercy of ______, Saïjaya was able to _________ the Battlefield of Kurukñetra even while he was in the room of Dhåtaräñöra.",
+        "correctAnswers": ["Vyasa","vyasa","envision"]
+      },
+      {
+        "id": 5,
+        "type": "fillUps",
+        "question": "Example of paddy field: As in the paddy field the unnecessary plants are taken out, so it is expected from the very beginning of these topics that in the religious field of _________ where the father of religion, __________, was present, the unwanted plants like Duryodhana and others would be wiped out and the thoroughly religious persons, headed by _________, would be established by the _______.",
+        "correctAnswers": ["kurukshetra","Sri Krishna","Duryodhana","Yudhisthria","lord"]
       }
+      
     ]
-  },
+  }
+,
   "1.2": {
-    "mcq": [
-      {
-        "id": 1,
-        "type": "mcq",
-        "question": "Name the place of pilgrimage where this battle took place.",
-        "options": ["Kurukshetra", "Mathura", "Rishikesh", "Varanasi"],
-        "correctOption": 0
-      }
-    ],
     "fillUps": [
       {
         "id": 1,
         "type": "fillUps",
-        "question": "What is the composition of an 'akñauhiṇī' as described in Bhagavad-gītā 1.2?",
-        "correctAnswer": "10,000 chariots, 30,000 elephants, 50,000 cavalry, and 100,000 infantry."
+        "question": " Duryodhana’s diplomacy: Duryodhana, after seeing the military force of the _________, at once went to the commander-in-chief, __________, to inform him of the real position, because Duryodhana felt fear on seeing the military arrangement of the __________.To cover up his fear in a _________ way, Duryodhana went to ___________",
+        "correctAnswers": ["Pandavas","Dronacharya","Pandavas","diplomatic","Dronacharya"]
       },
       {
         "id": 2,
         "type": "fillUps",
-        "question": "What did Dhṛtarāṣṭra inquire from Sañjaya?",
-        "correctAnswer": "What did they do in Kurukshetra?"
+        "question": "A solid phalanx of 21,870 chariots, 21,870 _________, 65,610 _________ and 109,350 infantry is called an ________.",
+        "correctAnswers": ["elephants","cavalry","akshauhini"]
       }
      
     ]
   },
-  "1.4": {
+  "1.9": {
     "mcq": [
       {
         "id": 1,
         "type": "mcq",
-        "question": "Name the place of pilgrimage where this battle took place.",
-        "options": ["Kurukshetra", "Mathura", "Rishikesh", "Varanasi"],
-        "correctOption": 0
-      }
-    ],
-    "fillUps": [
-      {
-        "id": 1,
-        "type": "fillUps",
-        "question": "Who among the following warriors is fighting on the side of the Pandavas?",
-        "correctAnswer": "Käçiräja"
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas. Jayadratha  ",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 1
       },
       {
-        "id": 2,
-        "type": "fillUps",
-        "question": "Identify the warrior aligned with the Kauravas.",
-        "correctAnswer": "Drupada"
+        "id": 1,
+        "type": "mcq",
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas.  Krpa ",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 1
+      },
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas. Yuyudhäna ",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 0
+      },
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas.  Uttamaujä ",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 0
+      },
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas. Bhurisravä ",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 1
+      },
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas. Käsiräja ",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 0
+      },
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas. Bhishma",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 1
+      },
+      {
+        "id": 1,
+        "type": "mcq",
+        "question": "As described in the text book, the following warriors are fighting on the side of the Pandavas or Kauravas. Virata ",
+        "options": ["Pandavas", "Kauravas"],
+        "correctOption": 0
       }
     ]
   }
