@@ -10,14 +10,14 @@
       {
         "id": 2,
         "type": "fillUps",
-        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is directly spoken by the Supreme Personality of Godhead, Lord Çré Kåñëa.",
+        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is ____________ by the Supreme Personality of Godhead, Lord Çré Kåñëa.",
         "correctAnswers": ["directly spoken"]
       },
       {
         "id": 3,
         "type": "fillUps",
-        "question": "Gita-Mahatmya: One should read Bhagavad-gétä very scrutinizingly with the help of a person who is a devotee of Çré Kåñëa and try to understand it without __________________ interpretations.",
-        "correctAnswers": ["scrutinizingly","devotee of Çré Kåñëa ","personally motivated"]
+        "question": "Gita-Mahatmya: One should read Bhagavad-gétä very __________ with the help of a person who is a devotee of ________ and try to understand it without __________________ interpretations.",
+        "correctAnswers": ["scrutinizingly","devotee of Sri Krishna ","personally motivated"]
       },
       {
         "id": 4,
