@@ -11,7 +11,12 @@ const path = require('path');
 const filePath = path.join(__dirname, 'verseDetails.json');
 const audioPath = path.join(__dirname, 'audio.json');
 const questionsPath = path.join(__dirname, 'questions.json');
+
+const verseNumberFilePath = path.join(__dirname, 'verseNumber.json');
+
 // const verses = require('./verses.json');
+
+
 
 
 const rawData = fs.readFileSync('bhagavad_gita.json', 'utf-8');
@@ -24,6 +29,21 @@ app.use(express.json());
 
 // Use cors middleware to allow requests from the origin where your Next.js app is hosted
 app.use(cors());
+
+app.get('/api/verseNumbers', (req, res) => {
+  
+  // Read the contents of the verseNumber JSON file
+  fs.readFile(verseNumberFilePath, (err, data) => {
+    if (err) {
+      console.error('Error reading verseNumber JSON file:', err);
+      res.status(500).json({ error: 'Internal server error' });
+      return;
+    }
+    // Parse the JSON data and send it as a response
+    const verseNumbers = JSON.parse(data);
+    res.json(verseNumbers);
+  });
+});
 // Define an API endpoint to retrieve chapter names and descriptions
 app.get('/api/chapters', (req, res) => {
   const chapters = data.chapters.map((chapter) => ({
