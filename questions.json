@@ -10,52 +10,107 @@
       {
         "id": 2,
         "type": "fillUps",
-        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is ____________ by the Supreme Personality of Godhead, Lord Çré Kåñëa.",
-        "correctAnswers": ["directly spoken"]
+        "question": "[1.1] Gita-Mahatmya: One should read Bhagavad- gétä  very  _________  with the help of a person who is a  _________ _________ _________ _________  and try to understand it without  _________  interpretations.",
+        "correctAnswers": [
+          "scrutinizingly",
+          "devotee of ",
+          "Sri Krishna",
+          "personally motivated"
+        ]
       },
       {
         "id": 3,
         "type": "fillUps",
-        "question": "Gita-Mahatmya: One should read Bhagavad-gétä very __________ with the help of a person who is a devotee of ________ and try to understand it without __________________ interpretations.",
-        "correctAnswers": ["scrutinizingly","devotee of Sri Krishna ","personally motivated"]
+        "question": "[1.1] Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is  _________  by the Supreme Personality of Godhead, Lord  Çré   Kåñëa .",
+        "correctAnswers": [
+          "directly spoken"
+        ]
       },
       {
         "id": 4,
         "type": "fillUps",
-        "question": "Dhåtaräñöra’s fear: Dhåtaräñöra became very fearful about the __________ of the holy place on the outcome of the ________, because he knew very well that the holy place would influence the __________ favourably.Dhåtaräñöra did not want a _________ between his sons and the Pandavas.",
-        "correctAnswers": ["influence", "battle", "pandavas","compromise"]
+        "question": "[1.1]  Dhåtaräñöra’s  fear:  Dhåtaräñöra  became very fearful about the  _________  of the holy place on the outcome of the  _________ , because he knew very well that the holy place would influence the  _________   favourably.Dhåtaräñöra  did not want a  _________  between his sons and the Pandavas.",
+        "correctAnswers": [
+          "influence",
+          "battle",
+          "Päëòavas",
+          "compromise"
+        ]
       },
       {
         "id": 5,
         "type": "fillUps",
-        "question": "Saïjaya’s vision: Saïjaya was a student of ______, and therefore, by the mercy of ______, Saïjaya was able to _________ the Battlefield of Kurukñetra even while he was in the room of Dhåtaräñöra.",
-        "correctAnswers": ["Vyasa","vyasa","envision"]
+        "question": "[1.1]  Saïjaya’s  vision:  Saïjaya  was a student of  _________ , and therefore, by the mercy of  _________ ,  Saïjaya  was able to  _________  the Battlefield of  Kurukñetra  even while he was in the room of  Dhåtaräñöra .",
+        "correctAnswers": [
+          "Vyäsa",
+          "Vyäsa",
+          "envision"
+        ]
       },
       {
-        "id": 5,
+        "id": 6,
         "type": "fillUps",
-        "question": "Example of paddy field: As in the paddy field the unnecessary plants are taken out, so it is expected from the very beginning of these topics that in the religious field of _________ where the father of religion, __________, was present, the unwanted plants like Duryodhana and others would be wiped out and the thoroughly religious persons, headed by _________, would be established by the _______.",
-        "correctAnswers": ["kurukshetra","Sri Krishna","Duryodhana","Yudhisthria","lord"]
+        "question": "[1.1] Example of paddy field: As in the paddy field the unnecessary plants are taken out, so it is expected from the very beginning of these topics that in the religious field of  _________  where the father of religion,  _________ _________ _________ , was present, the unwanted plants like  _________  and others would be wiped out and the thoroughly religious persons, headed by  _________ , would be established by the  _________ .",
+        "correctAnswers": [
+          "Kurukñetra",
+          "Sri Krishna",
+          "Duryodhana",
+          "Yudhiñöhira",
+          "Lord"
+        ]
       }
-      
     ]
-  }
-,
+  },
   "1.2": {
     "fillUps": [
       {
         "id": 1,
         "type": "fillUps",
-        "question": " Duryodhana’s diplomacy: Duryodhana, after seeing the military force of the _________, at once went to the commander-in-chief, __________, to inform him of the real position, because Duryodhana felt fear on seeing the military arrangement of the __________.To cover up his fear in a _________ way, Duryodhana went to ___________",
-        "correctAnswers": ["Pandavas","Dronacharya","Pandavas","diplomatic","Dronacharya"]
+        "question": "[1.2] Duryodhana’s diplomacy: Duryodhana, after seeing the military force of the  _________ , at once went to the commander-in-chief,  _________ , to inform him of the real position, because Duryodhana felt fear on seeing the military arrangement of the  _________ .To cover up his fear in a  _________  way, Duryodhana went to  _________ .",
+        "correctAnswers": [
+          "Pandavas","Dronacharya","Pandavas","diplomatic","Dronacharya"
+        ]
       },
       {
         "id": 2,
         "type": "fillUps",
-        "question": "A solid phalanx of 21,870 chariots, 21,870 _________, 65,610 _________ and 109,350 infantry is called an ________.",
-        "correctAnswers": ["elephants","cavalry","akshauhini"]
+        "question": "[1.2]  Akñauhiëé : A solid phalanx of 21,870 chariots, 21,870  _________ , 65,610  _________  and 109,350 infantry  is  called an  _________ .",
+        "correctAnswers": [
+          "elephants","cavalry","akshauhini"
+        ]
       }
-     
+    ]
+  },
+  "1.6": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.6]  Saubhadraù  is the son of  _________ .",
+        "correctAnswers": [
+          "Subhadra"
+        ]
+      }
+    ]
+  },
+  "1.8": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.8  ]  Saumadatti  is also known as  _________ .",
+        "correctAnswers": [
+          "Bhuriçravä"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[1.8]  Saumadatti  is the son of  _________ .",
+        "correctAnswers": [
+          "Somadatta"
+        ]
+      }
     ]
   },
   "1.9": {
@@ -117,5 +172,1351 @@
         "correctOption": 0
       }
     ]
+  },
+  
+  "1.10": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.10  ]  Kaurava  army was perfectly protected by  _________ _________ , whereas the Päëòavas were carefully protected by  _________ .",
+        "correctAnswers": [
+          "Grandfather ",
+          "Bhéñma",
+          "Bhéma"
+        ]
+      }
+    ]
+  },
+  "1.19": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.19] The hearts of the sons of  Dhåtaräñöra  were shattered by the sounds vibrated by the Päëòavas' party. This is due to the Päëòavas and their  _________ _________ .",
+        "correctAnswers": [
+          "confidence in Lord ",
+          "Krishna"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[1.19] Devotee is fearless: One who takes shelter of the  _________  has nothing to fear, even in the midst of the greatest  _________ .",
+        "correctAnswers": [
+          "Supreme Lord",
+          "calamity"
+        ]
+      }
+    ]
+  },
+  "1.21-22": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.21-22] Significance of addressing Krishna as Achyuta: The relationship between the  _________  and His  _________  is very sweet and  _________ . The servitor is always ready to render service to the Lord, and, similarly, the Lord is always seeking an opportunity to  _________ . He takes greater pleasure in His pure devotee's assuming the advantageous  postion  of ordering Him than He does in being the  _________ . As master, everyone is under His orders, and no one is above Him to order Him. But when he finds that a pure devotee is ordering Him, He obtains transcendental pleasure, although He is the  _________  master of all circumstances.",
+        "correctAnswers": [
+          "Lord",
+          "servitor",
+          "transcendental",
+          "render some service to the devotee",
+          "giver of orders",
+          "infallible"
+        ]
+      }
+    ]
+  },
+  "1.24": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.24  ] The word ‘ bhärata ’ refers to the descendant of  _________ .",
+        "correctAnswers": [
+          "Bharata"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[1.24]  Samädhi : A devotee of  Kåñëa  can conquer both  _________  and  _________  simply by  _________  of  Kåñëa  constantly. This is called  Kåñëa  consciousness, or  _________ .",
+        "correctAnswers": [
+          "sleep",
+          "ignorance",
+          "thinking",
+          "samädhi"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[1.24]  Guòäkeça :  _________  is called  Guòäkeça  because he conquered both sleep and ignorance due to his friendship with  _________ .",
+        "correctAnswers": [
+          "Arjuna",
+          "Kåñëa"
+        ]
+      }
+    ]
+  },
+  "1.28": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.28] A devotee has all good qualities: On seeing his relatives on the enemy side, the symptoms displayed by Arjuna were not due to  _________  but to his  _________ , a characteristic of a pure devotee of the Lord. ",
+        "correctAnswers": [
+          "weakness",
+          "softheartedness"
+        ]
+      }
+    ]
+  },
+  "1.31": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.31] Analogy of a person who is not hungry: Arjuna is reluctant even to kill his enemies, let alone his relatives. He thought that by killing his kinsmen there would be no happiness in his life, and therefore he was not willing to fight, just as  _________ .",
+        "correctAnswers": [
+          "a person who does not feel hunger is not inclined to cook"
+        ]
+      }
+    ]
+  },
+  "1.32-35": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.32-35  ] Arjuna was not prepared to fight with Kauravas even in exchange for the  _________ , let alone this earth.",
+        "correctAnswers": [
+          "three worlds"
+        ]
+      }
+    ]
+  },
+  "1.40": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.40] According to  Cäëakya   Paëòit , women are generally not very intelligent and therefore not  _________ .",
+        "correctAnswers": [
+          "trustworthy"
+        ]
+      }
+    ]
+  },
+  "1.42": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.42] Breaking tradition: The breaking of the  _________ _________  tradition by irresponsible leaders of society brings about chaos in that society, and consequently people forget the aim of life— _________ .",
+        "correctAnswers": [
+          "sanätana",
+          "dharma",
+          "Viñëu"
+        ]
+      }
+    ]
+  },
+  "1.43": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.43]  Präyaçcitta : One who is always engaged in  _________  activities must utilize the process of  _________  called the  präyaçcitta .",
+        "correctAnswers": [
+          "sinful",
+          "ablution"
+        ]
+      }
+    ]
+  },
+  "1.44": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.44] Driven by  _________ , one may be inclined to such sinful acts as the killing of one's own brother, father, or mother.",
+        "correctAnswers": [
+          "selfish motives"
+        ]
+      }
+    ]
+  },
+  "1.45": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[1.45] All the symptoms that Arjuna exhibits in this chapter are due to  _________  resulting from his being a great devotee of the Lord.",
+        "correctAnswers": [
+          "softheartedness"
+        ]
+      }
+    ]
+  },
+  "2.1": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.1  ]  Krishna is addressed as Madhusudana which means He is  killer of the  _________  demon . Arjuna wanted Krishna to kill the  demon of  _________  that had overtaken him in the  _________ .",
+        "correctAnswers": [
+          "Madhu",
+          "misunderstanding",
+          "discharge of his duty"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.1]  A man fallen in the ocean of nescience cannot be saved simply by rescuing his outward dress—the  _________ . One who does not know this and laments for the outward dress is called a  _________ , or one who laments unnecessarily.",
+        "correctAnswers": [
+          "gross material body",
+          "çüdra"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[2.1]  This chapter instructs us in self-realization by an analytical study of the  _________  and the  _________ , as explained by the supreme authority,  _________ .",
+        "correctAnswers": [
+          "material body",
+          "spirit soul",
+          "Lord Çré Kåñëa"
+        ]
+      }
+    ]
+  },
+  "2.2": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.2]  Absolute Truth is realized in three phases of understanding, namely  _________  or the  _________ ;  _________ , or the  _________ ; and  _________ , or the  _________ .",
+        "correctAnswers": [
+          "Brahman",
+          "impersonal all-pervasive spirit",
+          "Paramätmä",
+          "localized aspect of the Supreme within the heart of all living entities",
+          "Bhagavän",
+          "Supreme Personality of Godhead, Lord Kåñëa"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.2]  These three divine aspects  of the Absolute Truth  can be explained by the example of the sun, which also has three different aspects, namely the  _________ , the  _________  and the  _________ .",
+        "correctAnswers": [
+          "sunshine",
+          "sun's surface",
+          "sun planet itself"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[2.2]  As explained by Parashara Muni, t he Supreme Personality who possesses all  _________ , all  _________ , all  _________ , all  _________ , all  _________  and all  _________  is called Bhagavän.",
+        "correctAnswers": [
+          "riches",
+          "strength",
+          "fame",
+          "beauty",
+          "knowledge",
+          "renunciation"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[2.2]  The word äryan is applicable to persons who know the  _________  and have a civilization based on  _________ .",
+        "correctAnswers": [
+          "value of life",
+          "spiritual realization"
+        ]
+      }
+    ]
+  },
+  "2.3": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.3]  Krishna tells Arjuna “Do  not yield to this  _________ . It does not be fit you.  Give up such  petty  _________  and arise .”",
+        "correctAnswers": [
+          "degrading impotence",
+          "weakness of heart"
+        ]
+      }
+    ]
+  },
+  "2.4": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.4]  Arjuna is particularly thinking that he cannot kill respectable superiors like grandfather  _________  and teacher  _________ ,  who are always worshipable .  Would Krishna ever attack his own grandfather  _________  or His teacher  _________ ? These were some of the arguments of Arjuna to Krishna.",
+        "correctAnswers": [
+          "Bhisma",
+          "Dronacharya",
+          "Ugrasena",
+          "Sandipani Muni"
+        ]
+      }
+    ]
+  },
+  "2.7": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.7]  Arjuna is confused about his duty because of  _________ . He is asking Krishna to  _________  him in what is  _________  for him.  Even though Arjuna is Krishna’s friend, he wants to stop friendly talks. He voluntarily becomes Krishna’s  _________  and  _________  to Krishna.",
+        "correctAnswers": [
+          "miserly weakness",
+          "instruct",
+          "best",
+          "disciple",
+          "surrenders"
+        ]
+      }
+    ]
+  },
+
+  "2.8": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.8]  The  four fundamental  problems of material existence  are  _________ ,  _________ ,  _________  and  _________ . These problems  cannot be counteracted by accumulation of wealth and economic development.  T hey  c an  be solved only by  consult ingany one of the following three:",
+        "correctAnswers": [
+          "birth",
+          "old age",
+          "disease",
+          "death"
+        ]
+      }
+    ]
+  },
+  "2.11": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.11]  One who is learned does not lament for any condition of the body either  _________  or  _________ .",
+        "correctAnswers": [
+          "living",
+          "dead"
+        ]
+      }
+    ]
+  },
+  "2.12": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.12]  The individuality of all is confirmed in 2.12 for all the three phases of time namely  _________ ,  _________  and  _________  as well as for all three persons namely first person  – _________ , second person  – _________  and third person  – _________ .",
+        "correctAnswers": [
+          "past",
+          "present",
+          "future",
+          "Krishna",
+          "Arjuna",
+          "the kings"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.12]  The supreme authority  _________  does not support the Mayavadi theory which states that after  _________  the individual soul will merge into the  _________  and lose its  _________ .",
+        "correctAnswers": [
+          "Lord Krishna",
+          "liberation",
+          "impersonal Brahman",
+          "individuality"
+        ]
+      }
+    ]
+  },
+  "2.13": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.13]  A dhira or most sober man is defined in 2.13 as  a  man who has perfect knowledge of the constitution of the  _________ , the  _________ , and nature—both  _________  and  _________ . Such a dhira is not deluded by  change of  _________ .",
+        "correctAnswers": [
+          "individual soul",
+          "Supersoul",
+          "material",
+          "spiritual",
+          "bodies"
+        ]
+      }
+    ]
+  },
+  "2.14": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.14]  T he nonpermanent appearance of happiness and distress, and their disappearance in due course, are like the appearance and disappearance of  _________ .",
+        "correctAnswers": [
+          "winter and summer seasons"
+        ]
+      }
+    ]
+  },
+
+  "2.16": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.16]  As explained in 2.16, i n the Vedänta-sütras, as well as in the Çrémad-Bhägavatam, the Supreme has been accepted as the  origin of all  _________ .",
+        "correctAnswers": [
+          "emanations"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.16]  The living entities   are always subordinate to the Supreme Lord , which is  impossible to understand under the spell of  _________ , and to drive away such  _________  the Lord teaches the  _________  for the enlightenment of all living entities for all time.",
+        "correctAnswers": [
+          "ignorance",
+          "ignorance",
+          "Bhagavad-gétä"
+        ]
+      }
+    ]
+  },
+  "2.17": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.17]  C onsciousness is not due to any amount of material combination, but  due  to the  _________ .",
+        "correctAnswers": [
+          "spirit soul"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.17]  According to the Mundaka Upanishad as explained in 2.17, t he soul is  _________  in size and can be perceived by  _________ . This  sou l is flo ating in the five kinds of air -   _________ ,  _________ ,  _________ ,  _________  and  _________ . It  is situated within the  _________ , and spreads its influence all over the  _________  of the embodied living entities. When the soul is purified from the contamination of the  five kinds of  _________ , its spiritual influence is exhibited.",
+        "correctAnswers": [
+          "atomic",
+          "perfect intelligence",
+          "präëa",
+          "apäna",
+          "vyäna",
+          "samäna",
+          "udäna",
+          "heart",
+          "body",
+          "material air"
+        ]
+      }
+    ]
+  },
+  "2.18": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.18]  T here  was  no cause of lamentation  for Arjuna  because the living entity can not be  _________  a nd the material body cannot be  _________ .",
+        "correctAnswers": [
+          "killed",
+          "saved"
+        ]
+      }
+    ]
+  },
+
+  "2.20": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.20]  Even if one does not find the soul within the heart, where he is situated, one can still understand the presence of the soul simply by the presence of  _________ .",
+        "correctAnswers": [
+          "consciousness"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.20]  According to Katha Upanishad,  b oth the  types of soul  are situated on the same tree of the  _________  within the same  _________  of the living being, and only one who has become free from all  _________  as well as  _________  can, by the grace of the Supreme, understand the glories of the  soul .",
+        "correctAnswers": [
+          "body",
+          "heart",
+          "material desires",
+          "lamentations"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 2.20 ]   _________  is the fountain head of both the types of souls.",
+        "correctAnswers": [
+          "Krishna"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[2.20]  _________  is forgetful of his real nature; therefore he requires to be enlightened by  _________ , or by His bona fide representative  – the  _________ .",
+        "correctAnswers": [
+          "Arjuna",
+          "Kåñëa",
+          "spiritual master"
+        ]
+      }
+    ]
+  },
+  "2.21": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.21]  W hen Kåñëa orders fighting, it must be concluded that violence is for  _________ .",
+        "correctAnswers": [
+          "supreme justice"
+        ]
+      }
+    ]
+  },
+  "2.22": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.22] ference of the  _________  soul to another body is made possible by the grace of the  _________ soul .",
+        "correctAnswers": [
+          "atomic individual",
+          "Super"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.22]  Kåñëa is the  _________  bird, and Arjuna is the  _________  bird. Although they are friends, one is the  _________  and the other is the  _________ .",
+        "correctAnswers": [
+          "witnessing",
+          "eating",
+          "master",
+          "servant"
+        ]
+      }
+    ]
+  },
+
+  "2.23": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.23]  In the Varaha Purana the living entities are described as  _________  of the Supreme.",
+        "correctAnswers": [
+          "separated parts and parcels"
+        ]
+      }
+    ]
+  },
+
+  "2.25": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.25]  As far as the soul's existence is concerned, no one can establish his existence experimentally beyond the proof of  _________ .There are many things we have to accept solely on grounds of superior  _________ .There is no other source of understanding the identity of the father except by the authority of the  _________ .",
+        "correctAnswers": [
+          "çruti",
+          "authority",
+          "mother"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.25]  The Supreme Soul is infinite, and the atomic soul is  _________ . Therefore, the in dividual  soul, being unchangeable, can never become equal to the  _________  soul, or the Supreme Personality of Godhead. This concept is repeated in the Vedas in different ways just to confirm the stability of the  conception  of the soul.",
+        "correctAnswers": [
+          "infinitesimal",
+          "infinite"
+        ]
+      }
+    ]
+  },
+
+  "2.27": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.27]  The Battle of Kurukñetra, being the  _________ , was an inevitable event, and to fight for the right cause is the duty of a kñatriya.",
+        "correctAnswers": [
+          "will of the Supreme"
+        ]
+      }
+    ]
+  },
+
+  "2.29": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.29]  Some  _________  on the soul as amazing, some  _________  the soul  as amazing, and some  _________  of  the soul  as amazing, while others, even after  _________  about  the soul,  cannot understand him at all.",
+        "correctAnswers": [
+          "look",
+          "describe",
+          "hear",
+          "hearing"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.29]  Some people who are inclined to hear about the soul may be attending lectures in good association, but owing to ignorance, they are misguided by acceptance of the  _________ and the  _________  as one without distinction of  _________ .",
+        "correctAnswers": [
+          "Supersoul ",
+          "atomic soul",
+          "magnitude"
+        ]
+      }
+    ]
+  },
+
+  "2.39": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.39]  Sankhya as described in this chapter means analytical description of  _________  and  _________ .",
+        "correctAnswers": [
+          "body",
+          "soul"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.39]  Lord Kåñëa's säìkhya and Lord Kapila's säìkhya, as described in the Bhägavatam are one and the same. They are all  _________ -yoga.",
+        "correctAnswers": [
+          "bhakti"
+        ]
+      }
+    ]
+  },
+
+  "2.45": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.45]  The Vedas deal mostly with  _________  activities to gradually elevate the general public from the field of sense gratification to a position on the  _________  plane.",
+        "correctAnswers": [
+          "fruitive",
+          "transcendental"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.45]  Arjuna, as a student and friend of Lord Kåñëa, is advised to raise himself to thecendental position of  _________  philosophy where, in the beginning, there is  _________ -jijïäsä, or questions on the  _________ .",
+        "correctAnswers": [
+          "Vedänta",
+          "brahma",
+          "Supremecendence"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[2.45]  When the activities for sense gratification, namely the  _________ -käëòa chapter, are finished, then the chance for spiritual realization is offered in the form of the  _________ , which are part of different Vedas .",
+        "correctAnswers": [
+          "karma",
+          "Upaniñads"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[2.45]  T he  _________  is a part of the fifth Veda, namely the  _________ .",
+        "correctAnswers": [
+          "Bhagavad-gétä",
+          "Mahäbhärata"
+        ]
+      }
+    ]
+  },
+
+  "2.46": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.46]  According to the recommendation of Lord Chaitanya, the best purpose of Vedic wisdom is served by  _________ .",
+        "correctAnswers": [
+          "inoffensively chanting the holy name of the Lord"
+        ]
+      }
+    ]
+  },
+  "2.47": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.47]  The three subdivisions of prescribed duties are  _________ ,  _________  and  _________ .",
+        "correctAnswers": [
+          "routine work",
+          "emergency work",
+          "desired activities"
+        ]
+      }
+    ]
+  },
+  "2.48": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.48]  Yoga means to concentrate the  _________  upon the  _________  by controlling the ever-disturbing  _________ .",
+        "correctAnswers": [
+          "mind",
+          "Supreme",
+          "senses"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.48]  It is said in the Viñëu Puraëa that in the varëäçrama-dharma, the whole aim is to satisfy  _________ .",
+        "correctAnswers": [
+          "Viñëu"
+        ]
+      }
+    ]
+  },
+
+  "2.50": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.50]  One's ignorance can be removed by the instruction of the Bhagavad-gétä which teaches one to  _________  in all respects and become liberated from the chained victimization of  _________ , birth after birth.",
+        "correctAnswers": [
+          "surrender unto Lord Çré Kåñëa",
+          "action and reaction"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.50]  Arjuna is therefore advised to act in  _________  consciousness, the purifying process of resultant  _________ .",
+        "correctAnswers": [
+          "Kåñëa",
+          "action"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[2.50]  A man engaged in devotional service rids himself of both  _________  and  _________  actions even in this life. Therefore strive for yoga,  w hich is the  _________ .",
+        "correctAnswers": [
+          "good",
+          "bad",
+          "art of all work"
+        ]
+      }
+    ]
+  },
+  "2.51": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.51]  In verse number 51, Lord Krishna states that the wise who engage in devotional service free themselves from the cycle of birth and death  and attain the state beyond all miseries . Srila Prabhupada quotes a verse from the Srimad Bhagavatam to explain this point.  In this verse the lotus feet of the Lord is compared to a  _________ . The Lord is described as  shelter of the  _________  and also described as  the giver of  _________ . The material world is compared to an  _________ . Crossing the material world becomes easy because the material world shrinks to the size of  _________ . The material world is described also as a place where there is  _________  at every step . On the other hand the state beyond all miseries is described as  _________  or  _________ .",
+        "correctAnswers": [
+          "boat",
+          "cosmic manifestation",
+          "mukti",
+          "ocean",
+          "a calf’s hoofprint",
+          "misery",
+          "Vaikuntha",
+          "param padam"
+        ]
+      }
+    ]
+  },
+  "2.52": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.52]  In verse number 52, intelligence passing out of the dense forest of delusion means to  _________ . To become indifferent to all that has been heard and all that is to heard means to become indifferent to  _________ .",
+        "correctAnswers": [
+          "engage in devotional service of the Lord",
+          "rituals of the Vedas"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.52]  The great devotee and acharya Srila Madhavendra Puri says  that ever since he has taken to the devotional service of  _________  Lord Krishna, who is described as  _________  and also described as  _________ , he is unable to do four Vedic rituals: i)  _________ ; ii)  _________ ; iii)  _________ ; iv)  _________ _________ . This is because devotional service is sufficient to purify him from all  sinful bondage, which is the ultimate goal of the four rituals mentioned herein.",
+        "correctAnswers": [
+          "remembering",
+          "great descendant of the Yadu dynasty",
+          "enemy of Kamsa",
+          "offer prayers three times a day",
+          "take the prescribed ritualistic bath",
+          "offer ritualistic respects to the demigods",
+          "offer ",
+          "ritualistic respects to the forefathers"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[2.52]  Persons in Krishna consciousnesscend the limits of  _________ , or the range of the Vedas and Upanishads. There is also a reference to this in the sixth chapter in verse number  _________ , wherein it is mentioned that an  inquisitive  _________  stands above the ritualistic principles of the scriptures.",
+        "correctAnswers": [
+          "sabda-brahma",
+          "44",
+          "transcendentalist"
+        ]
+      }
+    ]
+  },
+
+  "2.53": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.53]  To say that one is in samädhi is to say that one has fully realized Kåñëa consciousness; that is, one in full samädhi has realized  _________ ,  _________  and  _________ .",
+        "correctAnswers": [
+          "Brahman",
+          "Paramätmä",
+          "Bhagavän"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.53]  The highest perfection of self-realization is to understand that one is eternally the servitor of Kåñëa and that one's only business is  to  _________ .",
+        "correctAnswers": [
+          "discharge one's duties in Kåñëa consciousness"
+        ]
+      }
+    ]
+  },
+
+  "2.54": {
+    "fillUps": [
+
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.54]  Arjuna asks Krishna about four types of symptoms of a person whose  consciousness is merged incendence .The four types of symptoms: i)  How does he  _________ ,  ii)  How does he  _________ ,  iii) H ow does he  _________ ?  iv) W hat is his  _________ ?",
+        "correctAnswers": [
+          "speak",
+          "sit",
+          "walk",
+          "language"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[2.54]  Srila Prabhupada explains that the  immediate symptom of a Kåñëa conscious man is that he  _________  and  _________ .",
+        "correctAnswers": [
+          "speaks only of Kåñëa",
+          "of matters relating to Him"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[2.54]  Srila Prabhupada gives three examples of different kinds of people who are known by their specific symptoms: i)  As a  _________  man has his symptoms by which he is known as a  _________  man,  ii)  as a  _________  man has his symptoms, by which he is known as  _________ , or  iii)  as a  _________  man has his symptoms,  by which he is known as  _________ ,  so a man incendental consciousness of Kåñëa has specific symptoms in various dealings.",
+        "correctAnswers": [
+          "rich",
+          "rich",
+          "diseased",
+          "diseased",
+          "learned",
+          "learned"
+        ]
+      }
+    ]
+  },
+  "2.55": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.55]  The Bhägavatam affirms that any person who is fully in Kåñëa consciousness, or devotional service of the Lord, has all the  _________ , whereas a person who is not socendentally situated has no  _________ , because he is sure to be taking refuge in  _________ .",
+        "correctAnswers": [
+          "good qualities of the great sages",
+          "good qualifications",
+          "his own mental concoctions"
+        ]
+      }
+    ]
+  },
+  "2.56": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.56]  Verse number 56 describes thus:  One who is not disturbed in spite of the  _________ , who is not elated when there is  _________ , and who is free from  _________ ,  _________  and  _________ , is called a sage of steady mind.",
+        "correctAnswers": [
+          "threefold miseries",
+          "happiness",
+          "attachment",
+          "fear",
+          "anger"
+        ]
+      }
+    ]
+  },
+  "2.66": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.66]  Kåñëa consciousness is a self-manifested peaceful condition which can be achieved only in  _________ .",
+        "correctAnswers": [
+          "relationship with Kåñëa"
+        ]
+      }
+    ]
+  },
+  "2.67": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[2.67]  As mentioned in the life of Mahäräja Ambaréña, all of the senses must be engaged in Kåñëa consciousness, for that is the correct technique for controlling the mind.  If not, then even one of the senses on which the mind focuses can  _________ .",
+        "correctAnswers": [
+          "carry away a man’s intelligence"
+        ]
+      }
+    ]
+  },
+  "3.1": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.1]  In this third chapter, in answer to Arjuna’s question, Lord  Krishna  elaborately explains karma-yoga or  _________ .",
+        "correctAnswers": [
+          "work in Krishna consciousness"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.1]  Arjuna wants to ski l lfully avoid  _________  by using Krishna consciousness as an excuse.",
+        "correctAnswers": [
+          "fighting"
+        ]
+      }
+    ]
+  },
+  "3.2": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.2]  In chapter 2, the process of Krishna consciousness was explained, but Arjuna wanted to clear up apparently confusing matters -- whether Krishna consciousness is  _________  or  _________ .",
+        "correctAnswers": [
+          "inertia",
+          "active service"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.2]  Even though many paths were explained in chapter 2, they were presented  _________ . A more  _________  outline of the path would be necessary for  action  and understanding.",
+        "correctAnswers": [
+          "unsystematically",
+          "organized"
+        ]
+      }
+    ]
+  },
+
+  "3.3": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.3]  Religion without philosophy is  _________  or  _________ .",
+        "correctAnswers": [
+          "sentiment",
+          "fanaticism"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.3]  The ultimate goal of both the processes (jnana-yoga and karma-yoga) is the same ie.  _________ .",
+        "correctAnswers": [
+          "Krishna"
+        ]
+      }
+    ]
+  },
+  "3.4": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.4]  B y merely abstaining from work one  cannot  achieve  _________ . By renunciation alone  o ne  cannot  attain  _________ .",
+        "correctAnswers": [
+          "freedom from reaction",
+          "perfection"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.4]  Without purification of heart, sannyas is simply a  _________  to the social order.",
+        "correctAnswers": [
+          "disturbance"
+        ]
+      }
+    ]
+  },
+
+  "3.5": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.5]  The soul is always active. Therefore it has to be engaged in the  good work of Kåñëa consciousness, otherwise it will be engaged in  _________ .",
+        "correctAnswers": [
+          "occupations dictated by illusory energy"
+        ]
+      }
+    ]
+  },
+
+  "3.6": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.6]  For sense enjoyment one can act in any capacity of the social order, but if one follows the rules and regulations of his particular status, he can make gradual progress in  _________ .",
+        "correctAnswers": [
+          "purifying his existence"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.6]  But he who makes a show of being a yogé, while actually searching for the objects of sense gratification, must be called the greatest  _________ .",
+        "correctAnswers": [
+          "cheater"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[3.6]  Such a pretender’s  knowledge has no value because the effects of such a sinful man's knowledge are taken away by the  _________ .",
+        "correctAnswers": [
+          "illusory energy of the Lord"
+        ]
+      }
+    ]
+  },
+
+  "3.9": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.9]  Yajna means  _________  or  _________ .",
+        "correctAnswers": [
+          "Vishnu",
+          "sacrificial performances"
+        ]
+      }
+    ]
+  },
+
+  "3.14": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.14]  When Lord Kåñëa is worshiped, the demigods, who are different  _________  of the Lord, are also automatically worshiped; therefore there is no separate need to worship the  _________ .",
+        "correctAnswers": [
+          "limbs",
+          "demigods"
+        ]
+      }
+    ]
+  },
+  "3.15": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.15]  Anything performed without the direction of the Vedas is called  _________  or unauthorized or sinful work .",
+        "correctAnswers": [
+          "vikarma"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.15]  T he Vedas are directly manifested from the  _________  of the Supreme Personality of Godhead.",
+        "correctAnswers": [
+          "breathing"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[3.15]  The Lord, being  _________ , can speak by  _________  air, as it is confirmed in the Brahma-saàhitä .",
+        "correctAnswers": [
+          "omnipotent",
+          "breathing"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[3.15]  The four Vedas—namely the  _________ ,  _________ ,  _________  and  _________ —are all emanations from the breathing of the great Personality of Godhead.",
+        "correctAnswers": [
+          "Åg-veda",
+          "Yajur-veda",
+          "Säma-veda",
+          "Atharva-veda"
+        ]
+      },
+      {
+        "id": 5,
+        "type": "fillUps",
+        "question": "[3.14, 3.15]  All living bodies subsist on  _________ .",
+        "correctAnswers": [
+          "food grains"
+        ]
+      }
+    ]
+  },
+
+  "3.19": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.19]  Verse 3.19 says that one can attain the Supreme by working without attachment. The Supreme is  _________  for the devotees and  _________  for the impersonalist.",
+        "correctAnswers": [
+          "the Personality of Godhead",
+          "liberation"
+        ]
+      }
+    ]
+  },
+  "3.20": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.20]  Violence is necessary in a situation where  _________  fail.",
+        "correctAnswers": [
+          "good arguments"
+        ]
+      }
+    ]
+  },
+  "3.21": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.21]  Such an ideal teacher is called  _________ .",
+        "correctAnswers": [
+          "acharya"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.21]  A  teacher must follow the principles of  _________ _________  to  t each the common man.",
+        "correctAnswers": [
+          "çäs",
+          "tra"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[3.21]  The Çrémad-Bhägavatam also affirms that one should follow in the footsteps of great  _________ , and that is the way of progress on the path of spiritual realization.",
+        "correctAnswers": [
+          "devotees"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[3.21]  The king or the executive head of a state, the father and the school teacher are all considered to be  _________  of the innocent people in general.All  of them  must be conversant with  _________ .",
+        "correctAnswers": [
+          "natural leaders",
+          "standard books of moral and spiritual codes"
+        ]
+      }
+    ]
+  },
+
+  "3.24": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.24]  Whenever  there is general disregard of regulative principles, the Lord Himself  _________  and  _________  the society.",
+        "correctAnswers": [
+          "descends",
+          "corrects"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.24]  We have to  _________ _________ Lord Krishna’s  instructions, but we  should n ot  _________  Him at any time.",
+        "correctAnswers": [
+          "follow",
+          " ",
+          "imitate"
+        ]
+      }
+    ]
+  },
+  "3.25": {
+    "fillUps": []
+  },
+  "3.26": {
+    "fillUps": []
+  },
+  "3.27": {
+    "fillUps": []
+  },
+  "3.28": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.28]  For a tattvavit, all material activities are  _________  and  _________ .",
+        "correctAnswers": [
+          "circumstantial",
+          "temporary"
+        ]
+      }, {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[3.28]  A tattvavit does not engage himself in the  _________  and  _________ . This is because he knows the difference between work in  _________  and work for  _________ . ",
+        "correctAnswers": [
+          "senses",
+          "sense gratification",
+          "devotion",
+          "fruitive results"
+        ]
+      }
+    ]
+  },
+  
+  "3.29": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.29]  Ignorant men think of the body as  _________ ;",
+        "correctAnswers": [
+          "the self"
+        ]
+      }
+    ]
+  },
+
+  "3.33": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.33]  Unless one is situated on thecendental platform of Kåñëa consciousness, he cannot get free from the influence of  _________ .",
+        "correctAnswers": [
+          "the modes of material nature"
+        ]
+      }
+    ]
+  },
+  "3.34": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.34]  Even though one may have a ttraction and repulsion for sense objects , he should not  fall under the control of  _________ and  _________ . What is the reason for this?",
+        "correctAnswers": [
+          "senses ",
+          "sense objects"
+        ]
+      }
+    ]
+  },
+
+  "3.38": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.38]  T he  _________  form of life is a chance for the living entity to escape the entanglement of material existence.",
+        "correctAnswers": [
+          "human"
+        ]
+      }
+    ]
+  },
+ 
+  "3.41": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.41]  Lust is described as the symbol of  _________  and the destroyer of  _________  and  _________ .",
+        "correctAnswers": [
+          "sin",
+          "knowledge",
+          "self-realisation"
+        ]
+      },
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.41]  Lust is only the perverted reflection of the  _________ .",
+        "correctAnswers": [
+          "love of God"
+        ]
+      }
+    ]
+  },
+  "3.42": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[3.42]  The working senses are superior to  _________ ;",
+        "correctAnswers": [
+          "dull matter"
+        ]
+      }
+    ]
   }
+  
 }
