@@ -4693,6 +4693,1642 @@
         ]
       }
     ]
+  },
+  "10.1": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.1 ] Krishna  explains His specific  _________  to Arjuna.",
+        "correctAnswers": [
+          "opulences"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.1]   Discourses in the society of devotees can take place only among those who are really  anxious  to be in  _________.   Others cannot take part in such discourses.",
+        "correctAnswers": [
+          "Kåñëa consciousness"
+        ]
+      }
+    ]
+  },
+
+  "10.2": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.2 ] The impersonal Brahman can be conceived by persons who are already in the  _________  energy of the Lord , but the Personality of Godhead cannot be conceived unless one is in the  _________  position.",
+        "correctAnswers": [
+          "inferior",
+          "transcendental"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.2 ]  The devotees of the Lord do not bother about the  _________  conception of God; their  _________  and  _________  bring them to surrender immediately unto the Supreme Lord, and out of the causeless mercy of Kåñëa, they can understand Kåñëa.",
+        "correctAnswers": [
+          "impersonal Brahman",
+          "faith",
+          "devotion"
+        ]
+      }
+    ]
+  },
+ 
+  "10.3": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.3 ]  T hose who are trying to elevate themselves to the platform of  _________  are superior to millions and millions of ordinary men who have no knowledge of  spiritual realization.",
+        "correctAnswers": [
+          "spiritual realization"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.3 ]  Here the word ajam mean s   _________.",
+        "correctAnswers": [
+          "unborn"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.3 ]  T he Lord, by His  _________  potency, is not under the inferior  material  energy , but is always in the  _________  energy.",
+        "correctAnswers": [
+          "internal",
+          "superior"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 10.3 ]  O ne  should  be  libe rated from  _________  t o be in the knowledge of the Supreme Lord.",
+        "correctAnswers": [
+          "all sinful acivities"
+        ]
+      }
+    ]
+  },
+
+  "10.4-5": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  K nowledge refers to understanding what is  _________  and what is  _________.",
+        "correctAnswers": [
+          "spirit",
+          "matter"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  Self-control means that the senses should not be used for  _________.",
+        "correctAnswers": [
+          "unnecessary personal enjoyment"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  Sukham, pleasure or happiness, should always be in that which is favorable for the cultivation of the  _________.",
+        "correctAnswers": [
+          "spiritual knowledge of Kåñëa consciousness"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  Bhava, birth, should be understood to refer to the  _________.",
+        "correctAnswers": [
+          "body"
+        ]
+      },
+      {
+        "id": 5,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  F ear is caused by our absorption in the  _________.   Bhayam, fearlessness, is only possible for one in  _________.",
+        "correctAnswers": [
+          "illusory energy",
+          "Kåñëa consciousness"
+        ]
+      },
+      {
+        "id": 6,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  Samatä, equanimity, refers to freedom from  _________  and  _________.",
+        "correctAnswers": [
+          "attachment",
+          "aversion"
+        ]
+      },
+      {
+        "id": 7,
+        "type": "fillUps",
+        "question": "[10.4-5] T hat which is  _________  for prosecuting Kåñëa consciousness should be accepted; that which is  _________  should be rejected.",
+        "correctAnswers": [
+          "favorable",
+          "unfavorable"
+        ]
+      },
+      {
+        "id": 8,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  Tapas means  _________  or  _________.",
+        "correctAnswers": [
+          "austerity",
+          "penance"
+        ]
+      },
+      {
+        "id": 9,
+        "type": "fillUps",
+        "question": "[ 10.4-5 ]  One should not fast for some political purpose; that is described in Bhagavad-gétä as  _________ , and anything done in ignorance or passion does not lead to  _________.",
+        "correctAnswers": [
+          "fasting in ignorance",
+          "spiritual advancement"
+        ]
+      },
+      {
+        "id": 10,
+        "type": "fillUps",
+        "question": "[ 10.4-5]  Yaçaù, fame, should be according to Lord Caitanya, who said that a man is famous when he is known as  a great  _________.",
+        "correctAnswers": [
+          "devotee"
+        ]
+      },
+      {
+        "id": 11,
+        "type": "fillUps",
+        "question": "[10.4-5]  According to Vedic literature, it is enjoined that charity should be given to the  _________  and  to the renouncer of life, the  _________.",
+        "correctAnswers": [
+          "brähmaëas",
+          "sannyäsé"
+        ]
+      }
+    ]
+  },
+
+ 
+  "10.6": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10. 6 ]  Brahmä is the original creature born out of the energy of the Supreme Lord known as  _________.",
+        "correctAnswers": [
+          "Hiraëyagarbha"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.6 ]  Brahmä underwent penance for  _________  years of the demigods before he realized by the grace of Kåñëa  how to  _________.",
+        "correctAnswers": [
+          "one thousand",
+          "create"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.6 ]  Brahmä is known as  _________ , the grandfather, and Kåñëa is known as the  _________ , the father of the grandfather.",
+        "correctAnswers": [
+          "pitämaha",
+          "prapitä-maha"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 10. 6 ] The seven great sages and before them the four other great sages and the Manus [progenitors of mankind] are born out of  _________ , and all creatures in these planets descend from them.",
+        "correctAnswers": [
+          "Krishna’s mind"
+        ]
+      }
+    ]
+  },
+  "10.7": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10. 7 ]  When one factually knows the opulences of the Supreme, there is no alternative but to  _________  to Him.",
+        "correctAnswers": [
+          "surrender"
+        ]
+      }
+    ]
+  },
+  "10.8": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10. 8 ] From Näräyaëa,  _________  is born, and from Näräyaëa, the  _________  are also born. From Näräyaëa,  _________  is born, from Näräyaëa the eight  _________  are born, from Näräyaëa the eleven  _________  are born, from Näräyaëa the twelve  _________  are born.",
+        "correctAnswers": [
+          "Brahmä",
+          "patriarchs",
+          "Indra",
+          "Vasus",
+          "Rudras",
+          "Ädityas"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.8]  In the many Puräëas it is said that Lord Çiva was born from the highest, the  _________.",
+        "correctAnswers": [
+          "Supreme Lord Kåñëa"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.8]  In Varäha Puräëa it is also said,  _________  is the Supreme Personality of Godhead, and from Him Brahmä was born, from whom  _________  was born.",
+        "correctAnswers": [
+          "Näräyaëa",
+          "Çiva"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 10. 8   ver s e ]  Krishna is  the source of all  _________  and  _________  worlds.",
+        "correctAnswers": [
+          "spiritual",
+          "material"
+        ]
+      }
+    ]
+  },
+
+  "10.9": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10. 9 ]  In the preliminary stage of devotional service ,  the  pure devotees  relish the transcendental pleasure from the  _________  itself , and in the mature stage they are actually situated in  _________.",
+        "correctAnswers": [
+          "service",
+          "love of God"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.9]  The spiritual plant of devotional service gradually grows and grows until it penetrates the  covering of the  _________  and enters into the  _________  in the spiritual sky.",
+        "correctAnswers": [
+          "material universe",
+          "brahmajyoti effulgence"
+        ]
+      }
+    ]
+  },
+
+  "10.10": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.10]  Buddhi means  _________ , and yogam means  _________  activities  or  _________ elevation.",
+        "correctAnswers": [
+          "intelligence",
+          "mystic",
+          "mystic "
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.10]  B uddhi-yogam is the process by which one gets out of the  _________ of this material world.",
+        "correctAnswers": [
+          "entanglement "
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.10 ]  If a devotee is intelligent enough, he will make progress on the path of  _________.",
+        "correctAnswers": [
+          "self-realization"
+        ]
+      }
+    ]
+  },
+
+  "10.11": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.11]  _________ , a very influential and learned scholar in  Benares  at that time, derided Lord Caitanya for being a sentimentalist.",
+        "correctAnswers": [
+          "Prakäçänanda"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.11]  The pure devotee always has  _________  within his heart; therefore he is just like the  _________  that dissipates the darkness of ignorance.",
+        "correctAnswers": [
+          "Kåñëa",
+          "sun"
+        ]
+      }
+    ]
+  },
+
+  "10.12-13": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10. 12- 13  ]  Unless one is in the  _________ , he cannot understand Bhagavad-gétä.",
+        "correctAnswers": [
+          "disciplic succession"
+        ]
+      }
+    ]
+  },
+
+  "10.15": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.15 ]  The Supreme Lord Kåñëa can be known by persons who are in a relationship with Him through the discharge of devotional service, like  _________  and  his  _________.",
+        "correctAnswers": [
+          "Arjuna",
+          "successors"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.15 ]  Krishna  is addressed here as  _________ , the supreme controller of everyone.",
+        "correctAnswers": [
+          "Bhüteça"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.15 ]  Krishna  is addressed herein as  _________ , the worshipful God of all demigods.",
+        "correctAnswers": [
+          "Devadeva"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 10.15 ]  Krishna is addressed here as  _________ , the supreme proprietor of everything.",
+        "correctAnswers": [
+          "Jagatpati"
+        ]
+      }
+    ]
+  },
+
+  "10.17": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.17 ]  The Supreme Personality of Godhead is covered by His  _________.",
+        "correctAnswers": [
+          "yoga-mäyä"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.17 ] The superior devotee is not only concerned for his own understanding, but for the understanding of  all  _________.",
+        "correctAnswers": [
+          "mankind"
+        ]
+      }
+    ]
+  },
+
+  "10.19": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.19 ]  The word prädhänyataù (principal) is very important because we can understand only a few of the principal details of the Supreme Lord, for His features are  _________.",
+        "correctAnswers": [
+          "unlimited"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.19  ]  The  _________  or the  _________  cannot understand the exceptional opulences of the Supreme Lord nor the manifestations of His divine energy.",
+        "correctAnswers": [
+          "impersonalist",
+          "pantheist"
+        ]
+      }
+    ]
+  },
+
+  "10.20": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.20 ]  Before the material creation, the Supreme Lord, by His plenary expansion, accepts the  _________  incarnations, and from Him everything begins.",
+        "correctAnswers": [
+          "Puruña"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.20 ]  The total material energy is not the cause of the creation, but actually the Mahä-Visëu enters into the  _________ , the total material energy.",
+        "correctAnswers": [
+          "mahat-tattva"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.20 ]  When Mahä-Viñëu enters into the manifested universes, He again manifests Himself as the  _________  in each and every entity.",
+        "correctAnswers": [
+          "Supersoul"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 10. 20 ]  Without the existence of the  _________ , the body cannot develop. Similarly, the material manifestation cannot develop unless the  Supreme Soul of  _________  enters.",
+        "correctAnswers": [
+          "spiritual spark",
+          "Kåñëa"
+        ]
+      },
+      {
+        "id": 5,
+        "type": "fillUps",
+        "question": "[ 10.20]  The Supreme Lord Kåñëa, the cause of all causes, lies down in the cosmic ocean as  _________  or  _________ , and therefore Kåñëa is the beginning of this universe, the maintainer of the universal manifestation, and the end of all the energy.",
+        "correctAnswers": [
+          "Mahä-Viñëu",
+          "Käraëodakaçäyé Viñëu"
+        ]
+      }
+    ]
+  },
+  "10.21": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.2 1 ] Of the Ädityas  Krishna is   _________ , of lights  He is  the  _________ ,  He is   _________  of the Maruts, and among the stars  He is  the  _________.",
+        "correctAnswers": [
+          "Viñëu",
+          "radiant sun",
+          "Maréci",
+          "moon"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.21  ]  I n the Brahma-saàhitä the sun is accepted as the glowing effulgence of the Supreme Lord and is considered to be one of His  _________.",
+        "correctAnswers": [
+          "eyes"
+        ]
+      }
+    ]
+  },
+
+  "10.22": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.2 2 ] Of the Vedas  Krishna is  the  _________ -veda; of the demigods  He is  _________ ; of the senses  He is  the  _________ , and in living beings  He is  the  _________.",
+        "correctAnswers": [
+          "Säma",
+          "Indra",
+          "mind",
+          "living force [knowledge]"
+        ]
+      }
+    ]
+  },
+ 
+  "10.23": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.2 3 ]  There are  _________  Rudras, of whom  _________ , is predominant. He is the incarnation of the Supreme Lord in charge of the modes of  _________  in the universe.",
+        "correctAnswers": [
+          "eleven",
+          "Çaìkara, Lord Çiva",
+          "ignorance"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.2 3 ] Of all the Rudras  Krishna is   _________ ; of the Yakñas and Räkñasas  He is  the  _________ ; of the Vasus  He is   _________ , and of the mountains  He is   _________.",
+        "correctAnswers": [
+          "Lord Çiva",
+          "lord of wealth [Kuvera]",
+          "fire [Agni]",
+          "Meru"
+        ]
+      }
+    ]
+  },
+  "10.24": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.24 ]  Of priests,  Krishna is  the chief,  _________  Of generals  He is   _________ , the lord of war; and of bodies of water  He is  the  _________.",
+        "correctAnswers": [
+          "Båhaspati",
+          "Skanda",
+          "ocean"
+        ]
+      },
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.24 ]  _________  is the chief demigod of the heavenly planets and is known as the king of the heavens. The planet in which he reigns is called  _________.",
+        "correctAnswers": [
+          "Indra",
+          "Indraloka"
+        ]
+      }
+    ]
+  },
+
+  "10.25": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.25 ]  Of the great sages  Krishna is   _________ ; of vibrations  He is  the  transcendental  _________. Of sacrifices  He is  the  _________ , and of immovable things  He is  the  _________.",
+        "correctAnswers": [
+          "Bhågu",
+          "om",
+          "chanting of the holy names [japa]",
+          "Himalayas"
+        ]
+      },
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[10.25]  The most powerful son  of  Brahmä is  _________ , who is also the greatest sage.",
+        "correctAnswers": [
+          "Bhågu"
+        ]
+      }
+    ]
+  },
+ 
+  "10.26": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.26 ]  Of all trees  Krishna is  the  _________  tree, and amongst sages and demigods  He is   _________. Of the singers of the gods [Gandharvas]  He is   _________ , and among perfected beings  He is  the sage  _________.",
+        "correctAnswers": [
+          "holy fig",
+          "Närada",
+          "Citraratha",
+          "Kapila"
+        ]
+      }
+    ]
+  },
+  "10.27": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.27 ]  Of horses  Krishna is  _________ , who rose out of the ocean, born of the elixir of immortality; of lordly elephants  He is  _________ , and among men  He is  the  _________.",
+        "correctAnswers": [
+          "Uccaiùçravä",
+          "Airävata",
+          "monarch"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.27 ]  The devotee demigods and the demons (asuras) once took a sea journey. On this journey,  _________  and  _________  were produced, and  _________  drank the poison.",
+        "correctAnswers": [
+          "nectar",
+          "poison",
+          "Lord Çiva"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.27 ]  Kings like Mahäräja  _________ , Mahäräja  _________  and Lord  _________  were all highly righteous kings who always thought of the citizens' welfare.",
+        "correctAnswers": [
+          "Yudhiñöhira",
+          "Parékñit",
+          "Räma"
+        ]
+      }
+    ]
+  },
+
+  "10.28": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.28 ] Of weapons  Krishna is  the  _________ ; among cows  He is  the  _________, givers of abundant milk. Of procreators  He is   _________ , the god of love, and of serpents  He is   _________ , the chief.",
+        "correctAnswers": [
+          "thunderbolt",
+          "Surabhi",
+          "Kandarpa",
+          "Väsuki"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.28 ]  In Kåñëaloka in the spiritual sky there are cows which can be milked at any time, and they give as much milk as one likes.   The Lord keeps many such cows, which are called  _________ .",
+        "correctAnswers": [
+          "Surabhi"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.28 ]  S ex for the generation of good children is called  _________.",
+        "correctAnswers": [
+          "Kandarpa"
+        ]
+      }
+    ]
+  },
+
+  "10.29": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.29 ]  Of the celestial Näga snakes  Krishna is   _________ ; of the aquatic deities  He is  _________. Of departed ancestors  He is   _________ , and among the dispensers of law  He is   _________ , lord of death.",
+        "correctAnswers": [
+          "Ananta",
+          "Varuëa",
+          "Aryamä",
+          "Yama"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.29 ]  There is a planet of  pitris  presided over by  _________ , who represents Kåñëa.",
+        "correctAnswers": [
+          "Aryamä"
+        ]
+      }
+    ]
+  },
+
+  "10.30": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.30 ]  Among the Daitya demons  Krishna is  the devoted  _________ ; among subduers  He is   _________ ; among the beasts  He is  the  _________ , and among birds  He is  _________ , the feathered carrier of Viñëu.",
+        "correctAnswers": [
+          "Prahläda",
+          "time",
+          "lion",
+          "Garuòa"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.30 ]  The sons of Aditi are called  _________ , and the sons of Diti are called  _________.   All the  _________  are devotees of the Lord, and all the  _________  are atheistic.",
+        "correctAnswers": [
+          "Ädityas",
+          "Daityas",
+          "Ädityas",
+          "Daityas"
+        ]
+      }
+    ]
+  },
+
+  "10.31": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.31 ] Of purifiers  Krishna is  the  _________ ; of the wielders of weapons  He is   _________ ; of fishes  He is  the  _________ , and of flowing rivers  He is  the  _________.",
+        "correctAnswers": [
+          "wind",
+          "Räma",
+          "shark",
+          "Ganges"
+        ]
+      }
+    ]
+  },
+
+  "10.32": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.32 ] Of all creations  Krishna is  the beginning and the end and also the middle. Of all sciences  He is  the  _________ , and among logicians  He is  the  _________.",
+        "correctAnswers": [
+          "spiritual science of the Self",
+          "conclusive truth"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.32 ]  Among logicians there are different stages of argument. The presentation of  _________  is called  ja l pa.",
+        "correctAnswers": [
+          "evidence"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.32 ]  The attempt to defeat one another is called  _________ , and the final conclusion is called  _________.   The  conclusive truth , the end of all reasoning processes, is Kåñëa.",
+        "correctAnswers": [
+          "vitaëòa",
+          "väda"
+        ]
+      }
+    ]
+  },
+ 
+
+  "10.33": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.33 ]  Of letters  Krishna is  the letter  _________ , and among compounds  He is  the  _________.  He is  also inexhaustable  _________ , and of creators  He is   _________ , whose manifold faces turn everywhere.",
+        "correctAnswers": [
+          "A",
+          "dual word",
+          "time",
+          "Brahmä"
+        ]
+      },{
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.33 ]  T he dual word, like  _________ , is called dvandvaù.",
+        "correctAnswers": [
+          "Räma-kåñëa"
+        ]
+      }
+    ]
+  },
+ 
+  "10.34": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.34 ]  After studying, if one can remember the subject matter, he is gifted with  good memory , or  _________.",
+        "correctAnswers": [
+          "småti"
+        ]
+      }
+    ]
+  },
+  "10.35": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.35 ] Of hymns  Krishna is  the  _________  sung to the Lord Indra, and of poetry  He is  the  _________ , sung daily by brähmaëas. Of months  He is   _________  and  _________ , and of seasons  He is   _________.",
+        "correctAnswers": [
+          "Båhat-säma",
+          "Gäyatré",
+          "November",
+          "December",
+          "flower-bearing spring"
+        ]
+      },
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.35 ]  _________  is  the  initiator  of  Gäyatré mantra, and it is passed down from him in  _________.",
+        "correctAnswers": [
+          "Brahmä",
+          "disciplic succession"
+        ]
+      }
+    ]
+  },
+  "10.36": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.36 ] Krishna is  also the  _________  of cheats, and of the splendid  He is  the  _________.  He is  victory,  He is  adventure, and  He is  the  _________  of the strong.",
+        "correctAnswers": [
+          "gambling",
+          "splendor",
+          "strength"
+        ]
+      }
+    ]
+  },
+
+  "10.37": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.37 ]  Of the descendants of Våñëi  Krishna is   _________ , and of the Päëòavas  He is   _________. Of the sages  He is   _________ , and among great thinkers  He is   _________.",
+        "correctAnswers": [
+          "Väsudeva",
+          "Arjuna",
+          "Vyäsa",
+          "Uçanä"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[B G   10.37 ]  _________  is the immediate expansion of Kåñëa.",
+        "correctAnswers": [
+          "Väsudeva"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 10.37 ]  _________  was the spiritual master of the demons.",
+        "correctAnswers": [
+          "Uçanä"
+        ]
+      }
+    ]
+  },
+  "10.38": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.38 ] Among punishments  Krishna is  the  _________ , and of those who seek victory,  He is   _________. Of secret things  He is   _________ , and of the wise  He is   _________.",
+        "correctAnswers": [
+          "rod of chastisement",
+          "morality",
+          "silence",
+          "wisdom"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.3 8 ]  Among the confidential activities of hearing, thinking and meditating,  _________  is most important because by  _________  one can make progress very quickly.",
+        "correctAnswers": [
+          "silence",
+          "silence"
+        ]
+      }
+    ]
+  },
+  "10.39": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.39 ] Krishna is  the generating  _________  of all existences. There is no being- moving  or unmoving—that can exist without  Him.",
+        "correctAnswers": [
+          "seed"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 10.39 ]  Whatever existence is not founded on the energy of Kåñëa is called  _________ , that which is not.",
+        "correctAnswers": [
+          "mäyä"
+        ]
+      }
+    ]
+  },
+
+  "10.40": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.40 ] What  Krishna  ha s  spoken to  Arjuna  is but a  mere  _________  of  His  infinite opulences.",
+        "correctAnswers": [
+          "indication"
+        ]
+      }
+    ]
+  },
+  "10.41": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 10.41 ]  A ll beautiful, glorious, and mighty creations spring from but a  spark of  _________.",
+        "correctAnswers": [
+          "Krishna’s splendor"
+        ]
+      }
+    ]
+  },
+  "11.1": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.1] Kåñëa is so kind that after showing His universal form, He converts Himself again into His  _________  form .",
+        "correctAnswers": [
+          "original"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.1 ]   Kåñëa is speaking to Arjuna just for his benefit, and Arjuna acknowledges that all this is happening to him by  _________  grace .",
+        "correctAnswers": [
+          "Kåñëa's"
+        ]
+      }
+    ]
+  },
+  "11.2": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.2] Krishna sustains the entire universe with just a  _________  of Himself.",
+        "correctAnswers": [
+          "fragment"
+        ]
+      }
+    ]
+  },
+
+  "11.4": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.4 ]  One can neither  _________ ,  _________ , understand nor  _________  the Supreme Lord, Kåñëa, by the  material  senses . ",
+        "correctAnswers": [
+          "see",
+          "hear",
+          "perceive"
+        ]
+      }
+    ]
+  },
+ 
+  "11.5": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.5 ]  Krishna’s universal form, although a transcendental form, is just manifested for the  _________  and is therefore subject to the  _________  of this material nature.",
+        "correctAnswers": [
+          "cosmic manifestation",
+          "temporary time"
+        ]
+      }
+    ]
+  },
+
+  "11.6": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.6 ]  Here it is stated that humans have neither  _________  nor  _________  of all these forms and manifestations.",
+        "correctAnswers": [
+          "heard",
+          "known"
+        ]
+      }
+    ]
+  },
+
+  "11.7": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.7 ]  Kåñëa gives Arjuna the power to see anything he wants to see,  _________ ,  _________  and  _________ . Thus by the  _________  of Kåñëa, Arjuna is able to see everything.",
+        "correctAnswers": [
+          "past",
+          "present",
+          "future",
+          "mercy"
+        ]
+      }
+    ]
+  },
+
+  "11.8": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.8 ]  To see the universal form of Kåñëa, Arjuna is told not to change his  _________  but his  _________ .",
+        "correctAnswers": [
+          "mind",
+          "vision"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.8 ]  Devotees who are correctly situated in a transcendental relationship with Kåñëa are attracted by  _________  features , not by a  _________  display of opulences .",
+        "correctAnswers": [
+          "loving",
+          "godless"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 11.8 ]  The Supreme Person is considered as the  _________  by great sages, as the  _________  by the devotees, and as a  _________  by ordinary men.",
+        "correctAnswers": [
+          "impersonal Brahman",
+          "Supreme Personality of Godhead",
+          "product of this material nature"
+        ]
+      }
+    ]
+  },
+  "11.9": {
+    "fillUps": []
+  },
+
+  "11.10-11": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 1 1.10-11 ]  These manifestations are distributed throughout the  _________  and are unlimited.  But Arjuna could see them while sitting in  _________ . That is due to the  _________  of Krishna.",
+        "correctAnswers": [
+          "universe",
+          "one place",
+          "inconceivable potency"
+        ]
+      }
+    ]
+  },
+  "11.12": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.12] What Arjuna saw was  _________ , yet Saïjaya is trying to give a mental picture of that great revelation to  _________ .",
+        "correctAnswers": [
+          "indescribable",
+          "Dhåtaräñöra"
+        ]
+      }
+    ]
+  },
+
+  "11.13": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.13 ]  As we learn from Vedic scriptures, there are many universes and many planets. Some of them are made of  _________ , some are made of  _________ , some are made of  _________ , some are very great, some are not so great, etc.",
+        "correctAnswers": [
+          "earth",
+          "gold",
+          "jewels"
+        ]
+      }
+    ]
+  },
+
+  "11.14": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.14  ]  In the scriptures there are  _________  basic kinds of relationships mentioned.",
+        "correctAnswers": [
+          "twelve"
+        ]
+      }
+    ]
+  },
+  "11.15": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[11.1 5]  This snake bed is called  _________ .",
+        "correctAnswers": [
+          "Väsuki"
+        ]
+      }
+    ]
+  },
+
+  "11.17": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.17] The Lord’s form, adorned with various  _________ ,  _________  and  _________ , is difficult to see because of its glaring effulgence, which is  _________  and  _________  like the  sun .",
+        "correctAnswers": [
+          "crowns",
+          "clubs",
+          "discs",
+          "fiery",
+          "immeasurable"
+        ]
+      }
+    ]
+  },
+
+  "11.19": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.19] Krishna is the origin without  _________ ,  _________  or  _________ .  Krishna has numberless arms, and the  _________  and  _________  are among His great unlimited eyes.   By Krishna’s  own  _________ , He is heating this entire  _________ .",
+        "correctAnswers": [
+          "beginning",
+          "middle",
+          "end",
+          "sun",
+          "moon",
+          "radiance",
+          "universe"
+        ]
+      }
+    ]
+  },
+
+  "11.20": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.20 ]  Dyäv äpåthivyoù means  _________  and lokatrayam means  _________ .  The vision of the universal form was not a  _________ . All those were spiritually  _________  wi th the divine vision saw it.",
+        "correctAnswers": [
+          "the space between heaven and earth",
+          "three worlds",
+          "dream",
+          "awake"
+        ]
+      }
+    ]
+  },
+
+  "11.21": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.21 ]  The demigods in all the planetary systems  _________  the terrific manifestation of the universal form and its glowing effulgence and so prayed for  _________ .",
+        "correctAnswers": [
+          "feared",
+          "protection"
+        ]
+      }
+    ]
+  },
+ 
+  "11.23": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.23] A ll the planets with their demigods  we re disturbed at seeing  Krishna’s  many faces,  _________ , arms,  _________  and legs and  His  terrible  _________ , and as they  we re disturbed, so  was   Arjuna .",
+        "correctAnswers": [
+          "eyes",
+          "bellies",
+          "teeth"
+        ]
+      }
+    ]
+  },
+  "11.24": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.24] Arjuna could no longer maintain his  _________ . Seeing Krishna’s radiant colors fill the  _________  and beholding His eyes and mouths, Arjuna was  _________ .",
+        "correctAnswers": [
+          "equilibrium",
+          "skies",
+          "afraid"
+        ]
+      }
+    ]
+  },
+  "11.29": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.29] Arjuna saw all people rushing with full speed into Krishna’s mouths as moths dash into a  _________ .",
+        "correctAnswers": [
+          "blazing fire"
+        ]
+      }
+    ]
+  },
+  "11.30": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.30] Arjuna saw Viñëu devouring all people in His  _________  and covering the universe with His  _________ . Scorching the worlds, He was manifest.",
+        "correctAnswers": [
+          "flaming mouths",
+          "immeasurable rays"
+        ]
+      }
+    ]
+  },
+
+  "11.33": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.33] Foolish persons who do not have sufficient knowledge think that nature is moving without a plan and all manifestations are but  _________ .",
+        "correctAnswers": [
+          "accidental formations"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.33 ]  Anyone who can understand the plan of the Supreme Lord and cultivate  _________  is most intelligent.",
+        "correctAnswers": [
+          "Kåñëa consciousness"
+        ]
+      }
+    ]
+  },
+  "11.34": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.34 ]  The plans of the Supreme Personality of Godhead are understood by His  _________ , and the plans of the  _________  are as good as His plans.",
+        "correctAnswers": [
+          "mercy",
+          "devotees"
+        ]
+      }
+    ]
+  },
+
+  "11.36": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.36] Arjuna says that  the world becomes  _________  upon hearing  Krishna’s  name and thus everyone becomes  _________  to  Him . Although the perfected beings offer  Him  their respectful  _________ , the demons are  _________ , and they flee here and there.",
+        "correctAnswers": [
+          "joyful",
+          "attached",
+          "homage",
+          "afraid"
+        ]
+      }
+    ]
+  },
+  "11.37": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.37] Arjuna is addressing Kåñëa as  _________ , which means that He is most  _________  and unlimited.",
+        "correctAnswers": [
+          "mahätmä",
+          "magnanimous"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.37 ]  _________  indicates that there is nothing which is not covered by the influence and energy of the Supreme Lord, and  _________  means that He is the controller of all demigods and is above them all.",
+        "correctAnswers": [
+          "Ananta",
+          "deveça"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 11.37 ]  _________  is born out of the lotus stem grown from the navel abdomen of  _________  Viñëu.",
+        "correctAnswers": [
+          "Brahmä",
+          "Garbhodakaçäyé"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 11.37 ]  The word  _________  is very significant because this material creation is subject to  _________ , but the Lord is above this material creation.",
+        "correctAnswers": [
+          "akñaram",
+          "destruction"
+        ]
+      }
+    ]
+  },
+
+  "11.39": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.39] Krishna is air,  _________ , water,  _________ ,  the supreme  _________ , the grandfather.",
+        "correctAnswers": [
+          "fire",
+          "moon",
+          "controller"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.39] Arjuna also addresses Kåñëa as the grandfather because He is the father of  _________ .",
+        "correctAnswers": [
+          "Brahmä"
+        ]
+      }
+    ]
+  },
+
+  "11.40": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.40] Arjuna offer s  obeisances to Krishna  from the  _________ , from  _________  and from  _________ .",
+        "correctAnswers": [
+          "front",
+          "behind",
+          "all sides"
+        ]
+      }
+    ]
+  },
+
+  "11.41-42": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.41-42] Three ways  Arjuna addressed the Lord in the past without knowing His glories  are  \"O  _________ ,\" \"O  _________ ,\" \"O my  _________ ,\" ",
+        "correctAnswers": [
+          "Kåñëa",
+          "Yädava",
+          "friend"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.41-42] Arjuna  is  asking forgiveness from the Lord  for  whatever he may have done in  _________  or in  _________ .",
+        "correctAnswers": [
+          "madness",
+          "love"
+        ]
+      }
+    ]
+  },
+
+  "11.44": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.44] Arjuna is  pleadin g Krishna to tolerate the  _________ _________ _________ _________ .",
+        "correctAnswers": [
+          "wrongs that ",
+          "He",
+          "may have done to ",
+          "Him"
+        ]
+      }
+    ]
+  },
+  "11.45": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.45] After seeing this universal form, Arjuna was  _________ , but at the same time his mind was disturbed with  _________ .",
+        "correctAnswers": [
+          "gladdened",
+          "fear"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.4 5 ]  This universal form is  _________  and  _________ . But in the Vaikuëöha planets Krishna has His transcendental form with four hands as  _________ .",
+        "correctAnswers": [
+          "material",
+          "temporary",
+          "Näräyaëa"
+        ]
+      }
+    ]
+  },
+
+  "11.47": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.4 7] Krishna happily showed Arjuna the universal form within the material world by His  _________  potency.",
+        "correctAnswers": [
+          "internal"
+        ]
+      }
+    ]
+  },
+  "11.48": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.48] Divine means  _________ . Unless one attains the status of divinity as a  _________ , he cannot have divine vision.",
+        "correctAnswers": [
+          "godly",
+          "demigod"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.48 ]  Pious activities and the voluntary acceptance of some bodily pains are called  _________ .",
+        "correctAnswers": [
+          "tapasya"
+        ]
+      }
+    ]
+  },
+
+  "11.50": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.50 ]  Saumya-vapu is known as the  _________ .",
+        "correctAnswers": [
+          "most beautiful form"
+        ]
+      }
+    ]
+  },
+ 
+  "11.51": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.51 ]  The originals of Bhagavad-gétä are as clear as the  _________ ; they do not require  _________  from foolish commentators.",
+        "correctAnswers": [
+          "sun",
+          "lamplight"
+        ]
+      }
+    ]
+  },
+
+  "11.52": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.52] Beyond that universal form, the form of Kåñëa as a  _________  is still more difficult to see, even for demigods like  _________  and Lord Çiva.",
+        "correctAnswers": [
+          "two-handed man",
+          "Brahmä"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.52 ]  Kåñëa's body, as confirmed by Brahmä-saàhitä and confirmed by Himself in Bhagavad-gétä, is completely  _________  and full of  _________  and  _________ .",
+        "correctAnswers": [
+          "spiritual",
+          "bliss",
+          "eternality"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 11.5 2] Those who are actually in the Vedic line hear about Kåñëa from  _________ , and by repeated hearing about Him, Kåñëa becomes  _________ .",
+        "correctAnswers": [
+          "authority",
+          "dear"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "fillUps",
+        "question": "[ 11.5 2  ]  Kåñëa is covered by His  _________  potency.",
+        "correctAnswers": [
+          "yoga-mäyä"
+        ]
+      }
+    ]
+  },
+  "11.53": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.5 3 ]  Kåñëa can be understood only through the path of  _________ .",
+        "correctAnswers": [
+          "devotional service"
+        ]
+      }
+    ]
+  },
+
+  "11.54": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.5 4 ]  I f one worships as prescribed in the temple, that is a chance to  _________ . ",
+        "correctAnswers": [
+          "progress"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.5 4]   The four-handed form is Näräyaëa, and the two-handed form is Kåñëa; they are  _________  and  _________ , whereas the universal form exhibited to Arjuna is  _________ .",
+        "correctAnswers": [
+          "eternal",
+          "transcendental",
+          "temporary"
+        ]
+      }
+    ]
+  },
+
+  "11.55": {
+    "fillUps": [
+      {
+        "id": 1,
+        "type": "fillUps",
+        "question": "[ 11.55 ]  If, one is not able to construct a temple for Kåñëa, one can engage himself in  _________  the temple of Kåñëa; that is also Kåñëa-karma.",
+        "correctAnswers": [
+          "cleansing"
+        ]
+      },
+      {
+        "id": 2,
+        "type": "fillUps",
+        "question": "[ 11.55] The term saìga-varjitaù means one should disassociate himself from persons who are  _________ .",
+        "correctAnswers": [
+          "against Kåñëa"
+        ]
+      },
+      {
+        "id": 3,
+        "type": "fillUps",
+        "question": "[ 11.55] A devotee of Kåñëa is  _________  to everyone. Therefore it is said here that he has no  _________ .",
+        "correctAnswers": [
+          "friendly",
+          "enemy"
+        ]
+      }
+    ]
   }
   
 }

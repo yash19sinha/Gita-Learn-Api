@@ -14,6 +14,8 @@ const questionsPath = path.join(__dirname, 'questions.json');
 
 const verseNumberFilePath = path.join(__dirname, 'verseNumber.json');
 
+const linkPath = path.join(__dirname, 'links.json');
+
 // const verses = require('./verses.json');
 
 
@@ -111,6 +113,30 @@ app.get('/api/audio/:chapterVerse', (req, res) => {
       res.json({ audio: audioData[chapterVerse] });
     } else {
       res.status(404).json({ error: 'Audio not found' });
+    }
+  });
+});
+
+
+// Add this code to your app.js
+app.get('/api/links/:chapterVerse', (req, res) => {
+  const { chapterVerse } = req.params;
+
+  // Read the audio JSON file and parse its contents
+  fs.readFile(linkPath, 'utf8', (err, data) => {
+    if (err) {
+      console.error('Error reading links JSON file:', err);
+      res.status(500).json({ error: 'Internal server error' });
+      return;
+    }
+
+    const linkData = JSON.parse(data);
+
+    // Check if audio data for the specified chapter-verse identifier exists
+    if (linkData[chapterVerse]) {
+      res.json({ links: linkData[chapterVerse] });
+    } else {
+      res.status(404).json({ error: 'link not found' });
     }
   });
 });
