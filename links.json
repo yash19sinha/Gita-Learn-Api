@@ -1,22 +1,393 @@
 {
   "1.1": {
-    "link1": "https://prabhupadavani.org/transcriptions/bhagavad-g%C4%ABt%C4%81-introduction/",
-    "podbean": "https://harekrishna.podbean.com/e/3-modes-of-nature-bg-145-10-hg-gaurmandal-das/"
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730709bglon/",
+      "title": "July 9, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
   },
   "1.2": {
-    "link1": "https://prabhupadavani.org/transcriptions/bhagavad-g%C4%ABt%C4%81-introduction/",
-    "podbean": "https://harekrishna.podbean.com/e/3-modes-of-nature-bg-145-10-hg-gaurmandal-das/"
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730709bglon/",
+      "title": "July 9, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
   },
   "1.3": {
-    "link1": "https://prabhupadavani.org/transcriptions/bhagavad-g%C4%ABt%C4%81-introduction/"
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730709bglon/",
+      "title": "July 9, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
   },
   "1.4": {
-    "link1": "https://prabhupadavani.org/transcriptions/bhagavad-g%C4%ABt%C4%81-introduction/"
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730710bglon/",
+      "title": "July 10, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
   },
   "1.5": {
-    "link1": "https://prabhupadavani.org/transcriptions/bhagavad-g%C4%ABt%C4%81-introduction/"
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730710bglon/",
+      "title": "July 10, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
   },
   "1.6": {
-    "link1": "https://prabhupadavani.org/transcriptions/bhagavad-g%C4%ABt%C4%81-introduction/"
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730711bglon/",
+      "title": "July 11, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.7": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730711bglon/",
+      "title": "July 11, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.8": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730712bglon/",
+      "title": "July 12, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.9": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730712bglon/",
+      "title": "July 12, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.10": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730712bglon/",
+      "title": "July 12, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.11": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730713bglon/",
+      "title": "July 13, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.12": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730713bglon/",
+      "title": "July 13, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.13": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730714bglon/",
+      "title": "July 14, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.14": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730714bglon/",
+      "title": "July 14, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.15": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730715bglon/",
+      "title": "July 15, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.16-18": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730716bglon/",
+      "title": ""
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+
+  "1.19": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730716bglon/",
+      "title": "July 16, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.20": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730717bglon/",
+      "title": "July 17, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.21-22": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730718bglon/",
+      "title": "July 18, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.23": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730719bglon/",
+      "title": "July 19, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.24": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730720bglon/",
+      "title": "July 20, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.25": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730720bglon/",
+      "title": "July 20, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.26": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730721bglon/",
+      "title": "July 21, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.27": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730721bglon/",
+      "title": "July 21, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.28": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730722bglon/",
+      "title": "July 22, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.29": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730722bglon/",
+      "title": "July 22, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.30": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730723bglon/",
+      "title": "July 23, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.31": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730724bglon/",
+      "title": "July 24, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.32-35": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730725bglon/",
+      "title": "July 25, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.36": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730726bglon/",
+      "title": "July 26, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.37-38": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730727bglon/",
+      "title": "July 27, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.39": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730727bglon/",
+      "title": "July 27, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.40": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730728bglon/",
+      "title": "July 28, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.41": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730729bglon/",
+      "title": "July 29, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.42": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730729bglon/",
+      "title": "July 29, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.43": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730730bglon/",
+      "title": "July 30, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.44": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730731bglon/",
+      "title": "July 31, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.45": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730801bglon/",
+      "title": "Aug. 1, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
+  },
+  "1.46": {
+    "link1": {
+      "link": "https://prabhupadavani.org/transcriptions/730801bglon/",
+      "title": "Aug. 1, 1973 — London"
+    },
+    "podbean": {
+      "link": "",
+      "title": ""
+    }
   }
 }
