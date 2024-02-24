@@ -22,7 +22,7 @@
       {
         "id": 3,
         "type": "fillUps",
-        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is  _________  by the Supreme Personality of Godhead, Lord  Çré   Krishna .",
+        "question": "Perfect theistic science: The Bhagavad Gita is the perfect theistic science because it is  _________  by the Supreme Personality of Godhead, Lord  Sri   Krishna .",
         "correctAnswers": [
           "directly spoken"
         ]
@@ -30,7 +30,7 @@
       {
         "id": 4,
         "type": "fillUps",
-        "question": "Dhåtaräñöra’s  fear:  Dhåtaräñöra  became very fearful about the  _________  of the holy place on the outcome of the  _________ , because he knew very well that the holy place would influence the  _________   favourably.Dhåtaräñöra  did not want a  _________  between his sons and the Pandavas.",
+        "question": "Dhrtarastra’s  fear:  Dhrtarastra  became very fearful about the  _________  of the holy place on the outcome of the  _________ , because he knew very well that the holy place would influence the  _________   favourably.Dhrtarastra  did not want a  _________  between his sons and the Pandavas.",
         "correctAnswers": [
           "influence",
           "battle",
@@ -41,7 +41,7 @@
       {
         "id": 5,
         "type": "fillUps",
-        "question": "Saïjaya’s  vision:  Saïjaya  was a student of  _________ , and therefore, by the mercy of  _________ ,  Saïjaya  was able to  _________  the Battlefield of  Kurukshetra  even while he was in the room of  Dhåtaräñöra .",
+        "question": "Saïjaya’s  vision:  Saïjaya  was a student of  _________ , and therefore, by the mercy of  _________ ,  Saïjaya  was able to  _________  the Battlefield of  Kurukshetra  even while he was in the room of  Dhrtarastra .",
         "correctAnswers": [
           "vyasa",
           "vyasa",
@@ -56,7 +56,7 @@
           "Kurukshetra",
           "Sri Krishna",
           "Duryodhana",
-          "Yudhiñöhira",
+          "Yudhisthria",
           "Lord"
         ]
       }
@@ -93,7 +93,7 @@
       {
         "id": 1,
         "type": "fillUps",
-        "question": "Saubhadraù  is the son of  _________ .",
+        "question": "Saubhadrah  is the son of  _________ .",
         "correctAnswers": [
           "Subhadra"
         ]
@@ -107,7 +107,7 @@
         "type": "fillUps",
         "question": "Saumadatti  is also known as  _________ .",
         "correctAnswers": [
-          "Bhuriçravä"
+          "Bhurisrava"
         ]
       },
       {
@@ -223,7 +223,7 @@
       {
         "id": 1,
         "type": "fillUps",
-        "question": "The hearts of the sons of  Dhåtaräñöra  were shattered by the sounds vibrated by the Pandavas' party. This is due to the Pandavas and their  _________ _________ .",
+        "question": "The hearts of the sons of  Dhrtarastra  were shattered by the sounds vibrated by the Pandavas' party. This is due to the Pandavas and their  _________ _________ .",
         "correctAnswers": [
           "confidence in Lord ",
           "Krishna"
@@ -417,7 +417,7 @@
         "correctAnswers": [
           "material body",
           "spirit soul",
-          "Lord Çré Krishna"
+          "Lord Sri Krishna"
         ]
       }
     ]
@@ -929,7 +929,7 @@
         "type": "fillUps",
         "question": "One's ignorance can be removed by the instruction of the Bhagavad-gétä which teaches one to  _________  in all respects and become liberated from the chained victimization of  _________ , birth after birth.",
         "correctAnswers": [
-          "surrender unto Lord Çré Krishna",
+          "surrender unto Lord Sri Krishna",
           "action and reaction"
         ]
       },
@@ -1965,7 +1965,7 @@
           "dharma",
           "artha",
           "k",
-          "ä",
+          "ā",
           "ma",
           "mokña"
         ]
@@ -3105,7 +3105,7 @@
       {
         "id": 3,
         "type": "fillUps",
-        "question": "Çré Nityänanda Prabhu delivered the typical narädhamas, the brothers  _________  and  _________ .",
+        "question": "Sri Nityänanda Prabhu delivered the typical narädhamas, the brothers  _________  and  _________ .",
         "correctAnswers": [
           "Jagai",
           "Madhai"
@@ -5240,7 +5240,7 @@
         "type": "fillUps",
         "question": "Kings like Mahäräja  _________ , Mahäräja  _________  and Lord  _________  were all highly righteous kings who always thought of the citizens' welfare.",
         "correctAnswers": [
-          "Yudhiñöhira",
+          "Yudhisthria",
           "Parékñit",
           "Räma"
         ]
@@ -5689,7 +5689,7 @@
         "question": " What Arjuna saw was  _________ , yet Saïjaya is trying to give a mental picture of that great revelation to  _________ .",
         "correctAnswers": [
           "indescribable",
-          "Dhåtaräñöra"
+          "Dhrtarastra"
         ]
       }
     ]
@@ -9232,9 +9232,9 @@
       {
         "id": 1,
         "type": "fillUps",
-        "question": "Liberation involves getting free from the concept of  _________ .",
+        "question": "Liberation involves getting free from the concept of  _________ life .",
         "correctAnswers": [
-          "material life"
+          "material"
         ]
       },
       {
@@ -9321,9 +9321,9 @@
       {
         "id": 2,
         "type": "fillUps",
-        "question": "Surrender to the Supreme Personality of Godhead is in the best interest of the  _________ . It is not for the interest of the  _________ .",
+        "question": "Surrender to the Supreme Personality of Godhead is in the best interest of the  _________ entities. It is not for the interest of the  _________ .",
         "correctAnswers": [
-          "living entities",
+          "living",
           "Supreme"
         ]
       }
@@ -9385,9 +9385,9 @@
       {
         "id": 1,
         "type": "fillUps",
-        "question": "The Lord was acting as the  _________  of Arjuna.",
+        "question": "The Lord was acting as the  _________ master of Arjuna.",
         "correctAnswers": [
-          "spiritual master"
+          "spiritual"
         ]
       }
     ]
@@ -9397,7 +9397,7 @@
       {
         "id": 1,
         "type": "fillUps",
-        "question": "Çré Caitanya Mahäprabhu says that the actual position of the living entity is that of  _________ .",
+        "question": "Sri Caitanya Mahäprabhu says that the actual position of the living entity is that of  _________ .",
         "correctAnswers": [
           "eternal servant of the Supreme Lord"
         ]
@@ -9405,10 +9405,10 @@
       {
         "id": 2,
         "type": "fillUps",
-        "question": "The living entity either has to serve the  _________  or the  _________ .",
+        "question": "The living entity either has to serve the illusory  _________  or the Supreme   _________ .",
         "correctAnswers": [
-          "illusory mäyä",
-          "Supreme Lord"
+          "maya",
+          "Lord"
         ]
       },
       {
@@ -9430,10 +9430,10 @@
       {
         "id": 5,
         "type": "fillUps",
-        "question": "Arjuna regained his  _________  by Krishna’s mercy, and he was now firm and free from doubt and was prepared to  _________ .",
+        "question": "Arjuna regained his  _________  by Krishna’s mercy, and he was now firm and free from doubt and was prepared to act according to   _________’s instructions .",
         "correctAnswers": [
           "memory",
-          "act according to Krishna’s instructions"
+          "Krishna"
         ]
       }
     ]
@@ -9511,7 +9511,7 @@
         "question": "The fight was actually between  _________  and  _________ .",
         "correctAnswers": [
           "Duryodhana",
-          "Yudhiñöhira"
+          "Yudhisthria"
         ]
       },
       {
@@ -9520,7 +9520,7 @@
         "question": "The  Kurukshetra  battle was to decide who would  _________ , and Saïjaya predicted that the power would be transferred to  _________ .",
         "correctAnswers": [
           "rule the world",
-          "Yudhiñöhira"
+          "Yudhisthria"
         ]
       },
       {
@@ -9559,10 +9559,10 @@
       {
         "id": 10,
         "type": "fillUps",
-        "question": "The creation is effected by  _________ , and it is created and dissolved by  _________ .",
+        "question": "The creation is effected by  _________  energy , and it is created and dissolved by  _________  time.",
         "correctAnswers": [
-          "eternal time",
-          "external energy"
+          "eternal",
+          "external"
         ]
       },
       {
