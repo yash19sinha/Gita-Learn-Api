@@ -14,6 +14,8 @@ const questionsPath = path.join(__dirname, "questions.json");
 
 const verseNumberFilePath = path.join(__dirname, "verseNumber.json");
 
+const introFilePath = path.join(__dirname, "intro.json");
+
 const linkPath = path.join(__dirname, "links.json");
 const linkPath1 = path.join(__dirname, "timestamp.json");
 const linkPath2 = path.join(__dirname, "podbeans.json");
@@ -29,6 +31,41 @@ app.use(express.json());
 
 // Use cors middleware to allow requests from the origin where your Next.js app is hosted
 app.use(cors());
+
+app.get("/api/sections", (req, res) => {
+  fs.readFile(introFilePath, (err, data) => {
+    if (err) {
+      console.error("Error reading JSON file:", err);
+      res.status(500).json({ error: "Internal server error" });
+      return;
+    }
+
+    const sections = JSON.parse(data);
+    res.json(sections);
+  });
+});
+
+
+app.get("/api/section/:sectionName", (req, res) => {
+  const { sectionName } = req.params;
+
+  fs.readFile(introFilePath, (err, data) => {
+    if (err) {
+      console.error("Error reading JSON file:", err);
+      res.status(500).json({ error: "Internal server error" });
+      return;
+    }
+
+    const sections = JSON.parse(data);
+
+    if (sections[sectionName]) {
+      res.json({ paragraphs: sections[sectionName] });
+    } else {
+      res.status(404).json({ error: "Section not found" });
+    }
+  });
+});
+
 
 app.get("/api/verseNumbers", (req, res) => {
   // Read the contents of the verseNumber JSON file
