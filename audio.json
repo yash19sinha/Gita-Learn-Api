@@ -45,7 +45,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-15.MP3"
     },
     "1.16-18": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-16.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-16.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-17.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-18.MP3"
+
+      ]
 
     },
     "1.17": {
@@ -61,10 +66,11 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-20.MP3"
     },
     "1.21-22": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-21.MP3"
-    },
-    "1.22": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-22.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-21.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-22.MP3"
+
+      ]
     },
     "1.23": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-23.MP3"
@@ -94,7 +100,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-31.MP3"
     },
     "1.32-35": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-32.MP3"
+      "audioUrl":[
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-32.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-33.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-34.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-35.MP3"
+      ] 
     },
     "1.33": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-33.MP3"
@@ -109,10 +120,10 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-36.MP3"
     },
     "1.37-38": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-37.MP3"
-    },
-    "1.38": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-38.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-37.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-38.MP3"
+      ]
     },
     "1.39": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP1/1-39.MP3"
@@ -265,11 +276,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP2/2-41.MP3"
     },
     "2.42-43": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP2/2-42.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP2/2-42.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP2/2-43.MP3"
+      ]
     },
-    "2.43": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP2/2-43.MP3"
-    },
+
     "2.44": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP2/2-44.MP3"
     },
@@ -635,10 +647,10 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-7.MP3"
     },
     "5.8-9": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-8.MP3"
-    },
-    "5.9": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-9.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-8.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-9.MP3"
+      ]
     },
     "5.10": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-10.MP3"
@@ -692,7 +704,10 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-26.MP3"
     },
     "5.27-28": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-27.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-27.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-28.MP3"
+      ]
     },
     "5.28": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP5/5-28.MP3"
@@ -731,17 +746,18 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-10.MP3"
     },
     "6.11-12": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-11.MP3"
-    },
-    "6.12": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-12.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-11.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-12.MP3"
+      ]
     },
     "6.13-14": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-13.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-13.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-14.MP3"
+      ]
     },
-    "6.14": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-14.MP3"
-    },
+
      "6.15": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-15.MP3"
     },
@@ -758,17 +774,14 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-19.MP3"
     },
     "6.20-23": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-20.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-20.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-21.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-22.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-23.MP3"
+      ]
     },
-    "6.21": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-21.MP3"
-    },
-    "6.22": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-22.MP3"
-    },
-    "6.23": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-23.MP3"
-    },
+
     "6.24": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP6/6-24.MP3"
     },
@@ -1129,11 +1142,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-3.MP3"
     },
     "10.4-5": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-4.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-4.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-5.MP3"
+      ]
     },
-    "10.5": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-5.MP3"
-    },
+
     "10.6": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-6.MP3"
     },
@@ -1153,10 +1167,10 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-11.MP3"
     },
     "10.12-13": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-12.MP3"
-    },
-    "10.13": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-13.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-12.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-13.MP3"
+      ]
     },
     "10.14": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP10/10-14.MP3"
@@ -1273,11 +1287,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-9.MP3"
     },
     "11.10-11": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-10.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-10.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-11.MP3"
+      ]
     },
-    "11.11": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-11.MP3"
-    },
+
     "11.12": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-12.MP3"
     },
@@ -1323,11 +1338,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-25.MP3"
     },
     "11.26-27": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-26.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-26.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-27.MP3"
+      ]
     },
-    "11.27": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-27.MP3"
-    },
+
     "11.28": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-28.MP3"
     },
@@ -1368,7 +1384,10 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-40.MP3"
     },
     "11.41-42": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-41.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-41.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-42.MP3"
+      ]
     },
     "11.42": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP11/11-42.MP3"
@@ -1428,11 +1447,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-5.MP3"
     },
     "12.6-7": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-6.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-6.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-7.MP3"
+      ]
     },
-    "12.7": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-7.MP3"
-    },
+
     "12.8": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-8.MP3"
     },
@@ -1449,11 +1469,12 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-12.MP3"
     },
     "12.13-14": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-13.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-13.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-14.MP3"
+      ]
     },
-    "12.14": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-14.MP3"
-    },
+
     "12.15": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-15.MP3"
     },
@@ -1464,7 +1485,10 @@
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-17.MP3"
     },
     "12.18-19": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-18.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-18.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-19.MP3"
+      ]
     },
     "12.19": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP12/12-19.MP3"
@@ -1474,11 +1498,12 @@
     },
 
     "13.1-2": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-1.MP3"
+      "audioUrl": [
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-1.MP3",
+        "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-2.MP3"
+      ]
     },
-    "13.2": {
-      "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-2.MP3"
-    },
+
     "13.3": {
       "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-3.MP3"
     },
@@ -1489,25 +1514,22 @@
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-5.MP3"
       },
       "13.6-7": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-6.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-6.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-7MP3"
+        ]
       },
       "13.7": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-7.MP3"
       },
       "13.8-12": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-8.MP3"
-      },
-      "13.9": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-9.MP3"
-      },
-      "13.10": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-10.MP3"
-      },
-      "13.11": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-11.MP3"
-      },
-      "13.12": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-12.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-8.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-9.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-10.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-11.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-12.MP3"
+        ]
       },
       "13.13": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP13/13-13.MP3"
@@ -1664,20 +1686,14 @@
       }
       ,
       "14.22-25": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-22.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-22.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-23.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-24.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-25.MP3"
+        ]
       }
-      ,
-      "14.23": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-23.MP3"
-      }
-      ,
-      "14.24": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-24.MP3"
-      }
-      ,
-      "14.25": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-25.MP3"
-      }
+      
       ,
       "14.26": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP14/14-26.MP3"
@@ -1693,10 +1709,10 @@
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP15/15-2.MP3"
       },
       "15.3-4": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP15/15-3.MP3"
-      },
-      "15.4": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP15/15-4.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP15/15-3.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP15/15-4.MP3"
+        ]
       }
       ,
       "15.5": {
@@ -1762,14 +1778,11 @@
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP15/15-20.MP3"
       } ,
       "16.1-3": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-1.MP3"
-      },
-      "16.2": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-2.MP3"
-      }
-      ,
-      "16.3": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-3.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-1.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-2.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-3.MP3"
+        ]
       }
       ,
       "16.4": {
@@ -1801,7 +1814,11 @@
       }
       ,
       "16.11-12": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-11.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-11.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-12.MP3"
+          
+        ]
       }
       ,
       "16.12": {
@@ -1809,7 +1826,11 @@
       }
       ,
       "16.13-15": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-13.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-13.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-14.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP16/16-15.MP3"
+        ]
       }
       ,
       "16.14": {
@@ -1872,26 +1893,22 @@
       }
       ,
       "17.5-6": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-5.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-5.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-6.MP3"
+        ]
       }
       ,
-      "17.6": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-6.MP3"
-      },
       "17.7": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-7.MP3"
       }
       ,
       "17.8-10": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-8.MP3"
-      }
-      ,
-      "17.9": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-9.MP3"
-      }
-      ,
-      "17.10": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-10.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-8.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-9.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-10.MP3"
+        ]
       }
       ,
       "17.11": {
@@ -1955,12 +1972,12 @@
       }
       ,
       "17.26-27": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-26.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-26.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-27.MP3"
+        ]
       }
-      ,
-      "17.27": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-27.MP3"
-      }
+      
       ,
       "17.28": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP17/17-28.MP3"
@@ -2002,10 +2019,10 @@
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-12.MP3"
       },
       "18.13-14": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-13.MP3"
-      },
-      "18.14": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-14.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-13.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-14.MP3"
+        ]
       },
       "18.15": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-15.MP3"
@@ -2071,7 +2088,10 @@
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-35.MP3"
       },
       "18.36-37": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-36.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-36.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-37.MP3"
+        ]
       },
       "18.37": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-37.MP3"
@@ -2116,13 +2136,11 @@
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-50.MP3"
       },
       "18.51-53": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-51.MP3"
-      },
-      "18.52": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-52.MP3"
-      },
-      "18.53": {
-        "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-53.MP3"
+        "audioUrl": [
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-51.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-52.MP3",
+          "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-53.MP3"
+        ]
       },
       "18.54": {
         "audioUrl": "https://www.gitasupersite.iitk.ac.in/sites/default/files/audio/CHAP18/18-54.MP3"
